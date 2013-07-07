@@ -1,0 +1,1049 @@
+<?xml version="1.0"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns="http://purl.org/rss/1.0/"
+>
+<channel rdf:about="http://nureader.appspot.com">
+	<title>Nu Reader</title>
+	<link>http://nureader.appspot.com</link>
+	<description>Nu Reader - http://nureader.appspot.com</description>
+	<atom:link rel="self" href="http://nureader.appspot.com/rss10.xml" type="application/rss+xml"/>
+
+	<items>
+		<rdf:Seq>
+			<rdf:li rdf:resource="http://lethargy.org/~jesus/writes/200" />
+			<rdf:li rdf:resource="tag:pydanny.com,2013-07-01:europython-django-intro.html" />
+			<rdf:li rdf:resource="http://www.intomobile.com/?p=437619" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-4323202250325013491.post-3148568550775333391" />
+			<rdf:li rdf:resource="http://gigaom.com/?p=663207" />
+			<rdf:li rdf:resource="http://techcrunch.com/?p=841062" />
+			<rdf:li rdf:resource="http://www.intomobile.com/?p=437731" />
+			<rdf:li rdf:resource="http://liliputing.com/?p=57026" />
+			<rdf:li rdf:resource="http://bits.blogs.nytimes.com/2013/07/01/xbox-chief-is-leaving-microsoft/" />
+			<rdf:li rdf:resource="http://www.thelineofbestfit.com/?p=129272" />
+			<rdf:li rdf:resource="http://evolver.fm/?p=35077" />
+			<rdf:li rdf:resource="http://bgr.com/?p=775116" />
+			<rdf:li rdf:resource="http://johnaugust.com/?p=11089" />
+			<rdf:li rdf:resource="http://www.overcomingbias.com/?p=30478" />
+			<rdf:li rdf:resource="http://www.insidefacebook.com/?p=83369" />
+			<rdf:li rdf:resource="http://www.intomobile.com/?p=437717" />
+			<rdf:li rdf:resource="http://phandroid.com/?p=122543" />
+			<rdf:li rdf:resource="http://arstechnica.com/?p=301055" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-28060897.post-5157451943398807608" />
+			<rdf:li rdf:resource="tag:nielsenhayden.com,2013:/makinglight//3.15212" />
+			<rdf:li rdf:resource="http://theapertureblog.com/?p=2043" />
+			<rdf:li rdf:resource="http://mjtsai.com/blog/?p=7560" />
+			<rdf:li rdf:resource="http://christiano.me/?p=2843" />
+			<rdf:li rdf:resource="http://arstechnica.com/?p=301065" />
+			<rdf:li rdf:resource="tag:www.antipope.org,2013:/charlie/blog-static//1.3626" />
+			<rdf:li rdf:resource="http://phandroid.com/?p=122536" />
+			<rdf:li rdf:resource="tag:blogs.harvardbusiness.org,2007-03-31:126.14079" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-11646261.post-1320494990943533048" />
+			<rdf:li rdf:resource="tag:www.iq.harvard.edu,2013:/blog/netgov//9.1548" />
+			<rdf:li rdf:resource="tag:www.iq.harvard.edu,2013:/blog/netgov//9.1547" />
+			<rdf:li rdf:resource="http://blogs.adobe.com/jnack/?p=9514" />
+			<rdf:li rdf:resource="http://techcrunch.com/?p=841178" />
+			<rdf:li rdf:resource="http://techcrunch.com/?p=841047" />
+			<rdf:li rdf:resource="http://feeds.fastcompany.com/fastcodesign/1672919 at http://www.fastcodesign.com" />
+			<rdf:li rdf:resource="http://gigaom.com/?p=663181" />
+			<rdf:li rdf:resource="http://www.intomobile.com/?p=437697" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-11646261.post-4986524373972535497" />
+			<rdf:li rdf:resource="tag:www.antipope.org,2013:/charlie/blog-static//1.3628" />
+			<rdf:li rdf:resource="tag:daringfireball.net,2013:/linked//6.27891" />
+			<rdf:li rdf:resource="http://www.thelineofbestfit.com/?p=129263" />
+			<rdf:li rdf:resource="http://bgr.com/?p=775000" />
+			<rdf:li rdf:resource="http://www.talkingbiznews.com/?p=44889" />
+			<rdf:li rdf:resource="http://www.thelineofbestfit.com/?p=129267" />
+			<rdf:li rdf:resource="tag:www.arcticstartup.com,2005:WpBlogPost/41969" />
+			<rdf:li rdf:resource="http://searchengineland.com/?p=165499" />
+			<rdf:li rdf:resource="http://www.thelineofbestfit.com/?p=129204" />
+			<rdf:li rdf:resource="tag:typepad.com,2003:post-6a00d83451b36c69e201901e10c5bf970b" />
+			<rdf:li rdf:resource="http://londonist.com/?p=295760" />
+			<rdf:li rdf:resource="http://techcrunch.com/?p=841044" />
+			<rdf:li rdf:resource="tag:www.antipope.org,2013:/charlie/blog-static//1.3627" />
+			<rdf:li rdf:resource="http://paperbits.net/post/54358483773" />
+			<rdf:li rdf:resource="http://phandroid.com/?p=122035" />
+			<rdf:li rdf:resource="http://economistsview.typepad.com/economistsview/2013/07/the-unemployed-need-and-deserve-our-help.html" />
+			<rdf:li rdf:resource="http://paperbits.net/post/54357952701" />
+			<rdf:li rdf:resource="http://gigaom.com/?p=663106" />
+			<rdf:li rdf:resource="http://overtag.dk/wordpress/?p=378" />
+			<rdf:li rdf:resource="http://bgr.com/?p=775038" />
+			<rdf:li rdf:resource="http://arstechnica.com/?p=301045" />
+			<rdf:li rdf:resource="http://gigaom.com/?p=663126" />
+			<rdf:li rdf:resource="http://arstechnica.com/?p=301007" />
+		</rdf:Seq>
+	</items>
+</channel>
+
+<item rdf:about="http://lethargy.org/~jesus/writes/200">
+	<title>Esoteric Curio: #ywahusty</title>
+	<link>http://lethargy.org/~jesus/writes/ywahusty</link>
+	<content:encoded>&lt;h3&gt;Defining the term:&lt;/h3&gt;
+&lt;p&gt;I recently used a term and was hit with a lot of out-of-band requests for explanation. It's a good one and excellent food for thought.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;b&gt;ywahusty (yuh-wuh-hus-tee)&lt;/b&gt;: you will always have users smarter than you.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This basic concept is one of sound, pragmatic systems engineering that might appear to fly in the face of traditional product engineering... but doesn't.&lt;/p&gt;
+
+&lt;p&gt;In traditional product engineering, there is a goal to produce a product that is both accessible and useful to the largest subset of the predefined audience of the product.  Basically, in software terms: you don't put too many knobs on the dashboard or you will have all sorts of operator errors.  You work very hard to tune those knobs or have then auto-tune so that the product behaves correctly under normal operational uses (and of course, their edge conditions).  This is just good product design.&lt;/p&gt;
+
+&lt;p&gt;We are faced with a problem: shit goes wrong.  As an engineer for a software product, you know full well that shit will break.  Those knobs will be set and/or auto-tuned and you'll be thinking: &quot;what if?&quot;  The: &quot;Wow, I've never seen this set of inputs. The min_wu_tang_threshold is 11... it might behave better at 42 right now... sure wish I could twist that knob that product management insisted I leave off right now.&quot;  The truth is: the product you ship is not the product they receive.  Not every knob you ship has to be in the &quot;manual,&quot; it can be in the unsupported &quot;ninja manual.&quot;  You can absolutely instrument your application without sacrificing simple and intuitive use by the majority of your audience.&lt;/p&gt;
+
+&lt;p&gt;Bottom line? The knob should be there. My hat goes off to an &lt;a href=&quot;http://www.messagesystems.com/company/who_we_are/&quot;&gt;engineering team&lt;/a&gt; that takes this to heart: &quot;I am ten ninjas.&quot; And a second tip of the hat to the diaspora of Solaris kernel engineers that have allowed us to tweak (seemingly) insane operational constraints on production systems without applying patches or rebooting.&lt;/p&gt;
+
+&lt;h3&gt;Appealing to the pragmatist.&lt;/h3&gt;
+
+&lt;p&gt;I'll attempt to appeal to the pragmatist in you. You are equipped with more knowledge now than you were when you started reading this prose. This is a truth whether you agree with anything I've said simply because you have more information.  Even you, with you current implementation knowledge would benefit from the ability to tweak, twist and manipulate the parameters of your operating product because it will allow you to test new ideas, verify assumptions and validate the design and implementation choices you've made with far greater ease.&lt;/p&gt;
+
+&lt;p&gt;As a side note, gdb and/or mdb aren't the &quot;knobs&quot; I'm talking about: think more along the lines of sysctl's on most UNIX implementations.  These are (mostly) run-time tunable parameters -- and yes users &lt;em&gt;can&lt;/em&gt; set them to values that will cause certain, and often immediate, combustion.  (good) Kernel engineers know that price benefit of having these knobs far outweighs their liability.&lt;/p&gt;
+
+&lt;h3&gt;Appealing to the experienced.&lt;/h3&gt;
+
+&lt;p&gt;Now, we come full circle, for the honest engineers that can check their ego at the door. I have never in my life developed a piece of successful software that had a user-base that contained only users dumber than myself.  The concept therein is absurd for any project with even moderate adoption.  You engineer your systems to be both observable and &lt;em&gt;operable&lt;/em&gt; because at the end of the day you will get schooled by (at least some of) your users.&lt;/p&gt;
+
+&lt;p&gt;Again... &lt;em&gt;please&lt;/em&gt; make your software operable. Why? #ywahusty&lt;/p&gt;</content:encoded>
+	<dc:date>1969-12-31T22:00:00+00:00</dc:date>
+	<dc:creator>Theo Schlossnagle</dc:creator>
+</item>
+<item rdf:about="tag:pydanny.com,2013-07-01:europython-django-intro.html">
+	<title>The Django community aggregator: EuroPython Intro to Django Workshop</title>
+	<link>http://pydanny.com/europython-django-intro.html</link>
+	<content:encoded>&lt;p&gt;We (myself and &lt;a class=&quot;reference external&quot; href=&quot;http://audreymroy.com&quot;&gt;Audrey Roy&lt;/a&gt;) have been asked to fill in a tutorial session at EuroPython 2013 on the afternoon July 3rd! Therefore, it is my honor to announce our EuroPython Intro to Django Workshop! (see the bottom of this article for registration instructions)&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;workshop-description&quot;&gt;
+&lt;h2&gt;Workshop Description&lt;/h2&gt;
+&lt;p&gt;Bring your laptops and join the authors of &lt;a class=&quot;reference external&quot; href=&quot;https://django.2scoops.org&quot;&gt;Two Scoops of Django&lt;/a&gt; for a hands-on Django workshop. We'll build a real, working site from the ground up, using the upcoming Django 1.6 and covering Python 2.7/3.3. We'll cover as much as we can get through, including but not limited to:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Python and Django setup&lt;/li&gt;
+&lt;li&gt;Project creation&lt;/li&gt;
+&lt;li&gt;App creation&lt;/li&gt;
+&lt;li&gt;models&lt;/li&gt;
+&lt;li&gt;The Django admin UI&lt;/li&gt;
+&lt;li&gt;Views&lt;/li&gt;
+&lt;li&gt;Migrations with South&lt;/li&gt;
+&lt;li&gt;User image uploads&lt;/li&gt;
+&lt;li&gt;New user registration&lt;/li&gt;
+&lt;li&gt;Basic forms&lt;/li&gt;
+&lt;li&gt;Basic internationalization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;prerequisites&quot;&gt;
+&lt;h2&gt;Prerequisites&lt;/h2&gt;
+&lt;p&gt;Attendees will need their own laptops. We'll cover installation, but if you can come with the following already installed you'll enjoy workshop more:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Really encouraged:&lt;/strong&gt; Python 3.3 or Python 2.7&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Really encouraged:&lt;/strong&gt; virtualenv&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Really encouraged:&lt;/strong&gt; pip&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are familiar with virtualenv, please have an instance created with the following already installed:&lt;/p&gt;
+&lt;pre class=&quot;literal-block&quot;&gt;git+git://github.com/django/django.git@1.6b1
+Pillow==2.0.0
+South==0.8.1
+django-bootstrap-registration==0.1.2
+django-braces==1.0.0
+django-crispy-forms==1.3.2
+django-reg==1.0.1
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;registration-details&quot;&gt;
+&lt;h2&gt;Registration Details&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Date&lt;/strong&gt;: July 3, 2013&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time&lt;/strong&gt;: 14:30 - 18:30&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Track&lt;/strong&gt;: Pizza Napoli&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Instructors&lt;/strong&gt;: Daniel Greenfeld and Audrey Roy&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sign-up&lt;/strong&gt;: &lt;a class=&quot;reference external&quot; href=&quot;https://ep2013.europython.eu/conference/talks/intro-django&quot;&gt;https://ep2013.europython.eu/conference/talks/intro-django&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</content:encoded>
+	<dc:date>2013-07-02T04:00:00+00:00</dc:date>
+	<dc:creator>pydanny's blog</dc:creator>
+</item>
+<item rdf:about="http://www.intomobile.com/?p=437619">
+	<title>IntoMobile: HP working on a smartphone with a differentiated experience</title>
+	<link>http://feedproxy.google.com/~r/IntoMobile/~3/BfTvnF_B3vg/</link>
+	<content:encoded>&lt;img alt=&quot;hplogo122811&quot; class=&quot;attachment-main-image wp-post-image&quot; height=&quot;366&quot; src=&quot;http://images.intomobile.com/wp-content/uploads/2011/12/hplogo122811.jpg&quot; title=&quot;hplogo122811&quot; width=&quot;650&quot; /&gt;&lt;p&gt;HP is rethinking its mobile strategy and may get back into the smartphone business. Speaking to &lt;a href=&quot;http://www.indianexpress.com/news/hp-aims-to-reenter-the-global-smartphone-race/1135805/0&quot;&gt;The Indian Express&lt;/a&gt;, HP Senior Director Consumer PC and Media Tablets Asia Pacific Yam Su Yin said the company would be foolish to ignore the smartphone market and was looking to produce a smartphone that would offer a “differentiated experience.”&lt;/p&gt;
+&lt;p&gt;Yin’s comments didn’t hint at when the phone would debut or what platform HP would choose. Windows Phone is possible as HP has a long-term partnership with Microsoft in the PC hardware business. The company could also produce an Android phone to go along with its Slate 7 Android tablet. At this point, we will just have to wait and see what HP has up its sleeve.&lt;/p&gt;
+&lt;p&gt;[Via &lt;a href=&quot;http://gigaom.com/2013/07/01/hp-revisiting-smartphones-will-they-run-android-windows-phone-or-blackberry/&quot;&gt;GigaOM&lt;/a&gt; and &lt;a href=&quot;http://www.indianexpress.com/news/hp-aims-to-reenter-the-global-smartphone-race/1135805/0&quot;&gt;Indian Express&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://www.intomobile.com/2013/07/01/hp-working-unique-smartphone/&quot;&gt;HP working on a smartphone with a differentiated experience&lt;/a&gt; appeared first on &lt;a href=&quot;http://www.intomobile.com&quot;&gt;IntoMobile&lt;/a&gt;.&lt;/p&gt; &lt;p style=&quot;padding: 10px; background: #ddd; border: 1px solid #ccc; clear: both;&quot;&gt;
+       &lt;a href=&quot;http://www.intomobile.com/2013/07/01/hp-working-unique-smartphone/&quot; target=&quot;_blank&quot;&gt;HP working on a smartphone with a differentiated experience&lt;/a&gt; originally appeared on &lt;a href=&quot;http://www.intomobile.com&quot; target=&quot;_blank&quot;&gt;IntoMobile.com&lt;/a&gt; on 2013-07-01T19:40:38Z. &lt;span style=&quot;color: #ddd;&quot;&gt;FV1gMYsz9b5j&lt;/span&gt;
+&lt;/p&gt;&lt;div class=&quot;feedflare&quot;&gt;
+&lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=BfTvnF_B3vg:lqnggPQk3ZI:yIl2AUoC8zA&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?d=yIl2AUoC8zA&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=BfTvnF_B3vg:lqnggPQk3ZI:dnMXMwOfBR0&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?d=dnMXMwOfBR0&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=BfTvnF_B3vg:lqnggPQk3ZI:F7zBnMyn0Lo&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?i=BfTvnF_B3vg:lqnggPQk3ZI:F7zBnMyn0Lo&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=BfTvnF_B3vg:lqnggPQk3ZI:gIN9vFwOqvQ&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?i=BfTvnF_B3vg:lqnggPQk3ZI:gIN9vFwOqvQ&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=BfTvnF_B3vg:lqnggPQk3ZI:qj6IDK7rITs&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?d=qj6IDK7rITs&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=BfTvnF_B3vg:lqnggPQk3ZI:V_sGLiPBpWU&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?i=BfTvnF_B3vg:lqnggPQk3ZI:V_sGLiPBpWU&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/IntoMobile/~4/BfTvnF_B3vg&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-01T19:40:38+00:00</dc:date>
+	<dc:creator>Kelly Hodgkins</dc:creator>
+</item>
+<item rdf:about="tag:blogger.com,1999:blog-4323202250325013491.post-3148568550775333391">
+	<title>Hightouch: More Attempts to Circumvent Public Access</title>
+	<link>http://feedproxy.google.com/~r/Hightouch/~3/7tKq5n9HprU/more-attempts-to-circumvent-public.html</link>
+	<content:encoded>The regents of the University of California are trying the exact same shenanigans as contained in the Senate version of the Farm Bill.  This is just plain wrong! The public pays for this research, and they have the right to know what it contains. This research needs to be in the public domain where ALL (ANYONE?) could potentially use these results to create new products. This is such crap!&lt;br /&gt;
+&lt;blockquote class=&quot;tr_bq&quot;&gt;
+&lt;span style=&quot;background-color: white; font-family: Georgia, serif; font-size: 14px; line-height: 21.953125px;&quot;&gt;&lt;span style=&quot;color: blue;&quot;&gt;In a unanimous vote last month, the &lt;a href=&quot;http://www.eastbayexpress.com/oakland/public-research-for-private-gain/Content?oid=3619535&quot;&gt;Regents of the University of California created a corporate entity&lt;/a&gt; that, if spread to all UC campuses as some regents envision, promises to further privatize scientific research produced by taxpayer-funded laboratories. The entity, named Newco for the time being, also would block a substantial amount of UC research from being accessible to the public, and could reap big profits for corporations and investors that have ties to the well-connected businesspeople who will manage it. &lt;/span&gt;&lt;/span&gt;&lt;/blockquote&gt;
+&lt;span style=&quot;background-color: white; color: #232323; font-family: Georgia, serif; font-size: 14px; line-height: 21.953125px;&quot;&gt;This is virtually identical to what the Senate wants to do with $200 million of taxpayer dollars in their already passed version of the Farm Bill.  We can only hope the Congress kills this off. Is it any wonder that the public is losing faith in their publicly funded universities?&lt;/span&gt;&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/Hightouch/~4/7tKq5n9HprU&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-01T19:40:30+00:00</dc:date>
+	<dc:creator>Kevin Gamble</dc:creator>
+</item>
+<item rdf:about="http://gigaom.com/?p=663207">
+	<title>jkOnTheRun: Google Glass gains more listening skills thanks to new software update</title>
+	<link>http://gigaom.com/2013/07/01/google-glass-gains-more-listening-skills-thanks-to-new-software-update/</link>
+	<content:encoded>&lt;p&gt;Google Glass owners will be able to get more use from their smart specs just by speaking to them after this month’s software update is installed. &lt;a href=&quot;https://plus.google.com/+projectglass/posts/eV8RUWoodig&quot;&gt;Google announced the new features on Monday&lt;/a&gt; with the software rolling out to devices over the next few days. Each month, Google improves Google Glass software, with last month’s focus being on camera improvements.&lt;/p&gt;
+&lt;p&gt;According to the official Project Glass account on Google Plus, voice activity takes center stage this month:&lt;/p&gt;
+&lt;blockquote id=&quot;quote-now-with-glass-you-c&quot;&gt;&lt;p&gt;“Now with Glass you can get things done without having to lift a finger. Let’s say your friend texts you. You can now say “ok glass, read aloud” to hear it and answer with “ok glass, reply.” Mom calling? Just say “ok glass, answer call.” Boyfriend away on business? Send that selfie straight away with “ok glass, share with Felix.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Also included is better contact integration with the glasses. Choosing the “Send a message to…” option brings up a list of Google contacts to swipe through and choose from. Glass users can also use voice commands to search the web — Google Glasses uses a smartphone for the connection — and with the new software update, a simple tap on “View Website” will bring up the web page.&lt;/p&gt;
+&lt;p&gt;For easier navigation on web pages, Google Glass will now support the following swipe and tilt features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Scroll – Slide your finger forward on the touchpad to scroll down.&lt;/li&gt;
+&lt;li&gt;Zoom – Slide two fingers forward or backward to zoom.&lt;/li&gt;
+&lt;li&gt;Look around – With two fingers down on the touchpad, move your head around to pan.&lt;/li&gt;
+&lt;li&gt;Click – As you look around, you can tap to select anything in the center of the screen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now that Google Glass is maturing on a monthly basis, I almost wish I had tried to get in early on the Glass project. It would have cost $1,500, of course, which is a bit much to spend on a product that’s not fully developed. But I like what I see with Glass as well as where the project is heading.&lt;/p&gt;
+&lt;p&gt;I expect that for much less of an investment, I’ll see some of the Google Glass features and user interface bits in an Android smartwatch later this year. &lt;a href=&quot;http://online.wsj.com/article_email/SB10001424127887323689204578571992848684764-lMyQjAxMTAzMDIwNzEyNDcyWj.html&quot;&gt;Last week it was reported that Google is working on a wearable for the wrist&lt;/a&gt; and I see plenty of re-use from Google Glass in such a device. Between the small Google Now cards and Google Glass interaction methods, &lt;a href=&quot;http://gigaom.com/2013/06/28/forget-an-android-gaming-console-google-can-make-a-killer-smartwatch/&quot;&gt;I think Google can make a killer smartwatch&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://gigaom2.files.wordpress.com/2013/06/googlenowcards-e1372448747951.jpg&quot;&gt;&lt;img alt=&quot;Google Now cards&quot; class=&quot;aligncenter size-full wp-image-662769&quot; src=&quot;http://gigaom2.files.wordpress.com/2013/06/googlenowcards-e1372448747951.jpg?w=708&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;  &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;http://stats.wordpress.com/b.gif?host=gigaom.com&amp;amp;blog=14960843&amp;amp;post=663207&amp;amp;subd=gigaom2&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;&lt;p&gt;&lt;a href=&quot;http://pubads.g.doubleclick.net/gampad/jump?iu=/1008864/GigaOM_RSS_300x250&amp;amp;sz=300x250&amp;amp;c=851953&quot;&gt;&lt;img src=&quot;http://pubads.g.doubleclick.net/gampad/ad?iu=/1008864/GigaOM_RSS_300x250&amp;amp;sz=300x250&amp;amp;c=851953&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Related research and analysis from GigaOM Pro:&lt;/strong&gt;&lt;br /&gt;Subscriber content. &lt;a href=&quot;http://pro.gigaom.com/?utm_source=mobile&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663207+google-glass-gains-more-listening-skills-thanks-to-new-software-update&amp;amp;utm_content=kevintofel&quot;&gt;Sign up for a free trial&lt;/a&gt;.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://pro.gigaom.com/report/survey-how-apps-can-solve-photo-management/?utm_source=mobile&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663207+google-glass-gains-more-listening-skills-thanks-to-new-software-update&amp;amp;utm_content=kevintofel&quot;&gt;Survey: How apps can solve photo management&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://pro.gigaom.com/2012/07/the-wearable-computing-market-a-global-analysis/?utm_source=mobile&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663207+google-glass-gains-more-listening-skills-thanks-to-new-software-update&amp;amp;utm_content=kevintofel&quot;&gt;Analyzing the wearable computing market&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://pro.gigaom.com/2012/07/mobile-second-quarter-2012-analysis-and-outlook/?utm_source=mobile&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663207+google-glass-gains-more-listening-skills-thanks-to-new-software-update&amp;amp;utm_content=kevintofel&quot;&gt;Takeaways from mobile’s second quarter&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+	<dc:date>2013-07-01T19:36:39+00:00</dc:date>
+	<dc:creator>Kevin C. Tofel</dc:creator>
+</item>
+<item rdf:about="http://techcrunch.com/?p=841062">
+	<title>TechCrunch UK: Send In Your Questions For Ask A VC With Resolute.VC's Mike Hirshland</title>
+	<link>http://techcrunch.com/2013/07/01/send-in-your-questions-for-ask-a-vc-with-resolute-vcs-mike-hirshland/</link>
+	<content:encoded>&lt;img alt=&quot;Michael Hirshland | CrunchBase Profile&quot; class=&quot;attachment-tc-carousel-river-thumb wp-post-image&quot; height=&quot;70&quot; src=&quot;http://tctechcrunch2011.files.wordpress.com/2013/07/michael-hirshland-crunchbase-profile.jpg?w=100&amp;amp;h=70&amp;amp;crop=1&quot; style=&quot;float: left; margin: 0 10px 7px 0;&quot; width=&quot;100&quot; /&gt;&lt;p&gt;This week on TechCrunch TV’s Ask A VC show Resolute.VC founder and investor &lt;a href=&quot;http://www.crunchbase.com/person/michael-hirshland&quot; target=&quot;_blank&quot;&gt;Mike Hirshland&lt;/a&gt; is in the studio. As you may remember, you can submit questions for our guests either in the comments or &lt;a href=&quot;mailto:askavc@techcrunch.com&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; and we’ll ask them during the show.&lt;/p&gt;
+&lt;p&gt;Hirshland is the founder of Resolute.VC, a seed stage venture capital fund &lt;a href=&quot;http://techcrunch.com/2011/11/04/former-polaris-venture-partner-michael-hirshland-debuts-new-seed-fund-resolute-vc/&quot;&gt;launched in 2011&lt;/a&gt;. Portfolio companies include MessageMe, Bark, Inc, Bitium, Card.com, Homejoy, MessageMe and Smile by Webshots.&lt;/p&gt;
+&lt;p&gt;Prior to founding Resolute.VC, Hirshland was an early stage investor at Polaris Venture Partners, and led investments in Automattic, Quantcast, Q1 Labs (acquired by IBM), Six Waves/Lolapps, KISSMetrics, Formspring, BlackArrow, Thing Labs (acquired by AOL) and Mail Bypass. Hirshland also conceived and led the San Francisco launch of Dogpatch Labs.&lt;/p&gt;
+&lt;p&gt;With his new fund, Hirshland has been open that he prefers being a lead investor in rounds and dislikes what he calls “headless” seed rounds that lack a lead investor (aka &lt;a href=&quot;http://techcrunch.com/2012/08/27/party-rounds-excellent/&quot;&gt;party rounds&lt;/a&gt;). We’re interested to see what his thoughts are on this trend, and why entrepreneurs continue to raise party rounds.&lt;/p&gt;
+&lt;p&gt;Please send us your &lt;a href=&quot;mailto:askavc@techcrunch.com&quot; target=&quot;_blank&quot;&gt;questions for Hirshland here&lt;/a&gt; or put them in the comments below!&lt;/p&gt;
+&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/841062/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;</content:encoded>
+	<dc:date>2013-07-01T19:34:01+00:00</dc:date>
+	<dc:creator>Leena Rao</dc:creator>
+</item>
+<item rdf:about="http://www.intomobile.com/?p=437731">
+	<title>IntoMobile: Are These The Backsides of the Rumored Budget iPhone Light?</title>
+	<link>http://feedproxy.google.com/~r/IntoMobile/~3/Pr3qKuEbPDI/</link>
+	<content:encoded>&lt;img alt=&quot;iPhone-Couleurs-Plastique-01-580x418&quot; class=&quot;attachment-main-image wp-post-image&quot; height=&quot;366&quot; src=&quot;http://images.intomobile.com/wp-content/uploads/2013/07/iPhone-Couleurs-Plastique-01-580x418.jpg&quot; title=&quot;iPhone-Couleurs-Plastique-01-580x418&quot; width=&quot;650&quot; /&gt;&lt;p&gt;Some very bright photos have appeared over the last few days, showing what could be the backsides of the fabled budget iPhone, recently dubbed the iPhone Light. The 90′s-ish neon cases sport the Apple logo and iPhone branding, and follow nicely to the colorful redesign of Apple’s iOS, &lt;a href=&quot;http://www.intomobile.com/2013/06/10/ios-7-intomobile-reacts/&quot;&gt;iOS 7&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Although it seems a bit of a stretch to assume that Apple would eschew its metal iPhone body design for a plastic one, these backside photos do seem to reflect the sizing of previous iPhone light component leaks. Various analysts have projected that Apple will release a &lt;a href=&quot;http://www.intomobile.com/2013/04/19/upcoming-lowend-iphone/&quot;&gt;budget focused iPhone&lt;/a&gt; this fall, alongside the iPhone 5s.&lt;/p&gt;
+&lt;p&gt;Time will tell what Apple has in store for us, as they are set to reveal their next hardware line later this year.&lt;/p&gt;
+&lt;p&gt;What do you think of the neon backsides? Does it seem a little crazy for Apple to launch devices with such intense colors?&lt;br /&gt;
+
+&lt;a href=&quot;http://www.intomobile.com/2013/07/01/these-backsides-rumored-budget-iphone-light/iphone-couleurs-plastique-01-580x418/&quot; title=&quot;iPhone-Couleurs-Plastique-01-580x418&quot;&gt;&lt;img alt=&quot;iPhone-Couleurs-Plastique-01-580x418&quot; class=&quot;attachment-thumbnail&quot; height=&quot;150&quot; src=&quot;http://www.intomobile.com/wp-content/uploads/2013/07/iPhone-Couleurs-Plastique-01-580x418-150x150.jpg&quot; title=&quot;iPhone-Couleurs-Plastique-01-580x418&quot; width=&quot;150&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://www.intomobile.com/2013/07/01/these-backsides-rumored-budget-iphone-light/cm-iphone-plastique/&quot; title=&quot;CM-iPhone-Plastique&quot;&gt;&lt;img alt=&quot;CM-iPhone-Plastique&quot; class=&quot;attachment-thumbnail&quot; height=&quot;150&quot; src=&quot;http://www.intomobile.com/wp-content/uploads/2013/07/CM-iPhone-Plastique-150x150.jpg&quot; title=&quot;CM-iPhone-Plastique&quot; width=&quot;150&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://www.intomobile.com/2013/07/01/these-backsides-rumored-budget-iphone-light/iphone-couleurs-plastique-02/&quot; title=&quot;iPhone-Couleurs-Plastique-02&quot;&gt;&lt;img alt=&quot;iPhone-Couleurs-Plastique-02&quot; class=&quot;attachment-thumbnail&quot; height=&quot;150&quot; src=&quot;http://www.intomobile.com/wp-content/uploads/2013/07/iPhone-Couleurs-Plastique-02-150x150.jpg&quot; title=&quot;iPhone-Couleurs-Plastique-02&quot; width=&quot;150&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;[Via: &lt;a href=&quot;http://www.slashgear.com/plastic-iphones-in-neon-tones-is-this-really-apples-next-generation-01288647/&quot;&gt;Slashgear&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://www.intomobile.com/2013/07/01/these-backsides-rumored-budget-iphone-light/&quot;&gt;Are These The Backsides of the Rumored Budget iPhone Light?&lt;/a&gt; appeared first on &lt;a href=&quot;http://www.intomobile.com&quot;&gt;IntoMobile&lt;/a&gt;.&lt;/p&gt; &lt;p style=&quot;padding: 10px; background: #ddd; border: 1px solid #ccc; clear: both;&quot;&gt;
+       &lt;a href=&quot;http://www.intomobile.com/2013/07/01/these-backsides-rumored-budget-iphone-light/&quot; target=&quot;_blank&quot;&gt;Are These The Backsides of the Rumored Budget iPhone Light?&lt;/a&gt; originally appeared on &lt;a href=&quot;http://www.intomobile.com&quot; target=&quot;_blank&quot;&gt;IntoMobile.com&lt;/a&gt; on 2013-07-01T19:33:58Z. &lt;span style=&quot;color: #ddd;&quot;&gt;FV1gMYsz9b5j&lt;/span&gt;
+&lt;/p&gt;&lt;div class=&quot;feedflare&quot;&gt;
+&lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=Pr3qKuEbPDI:tba79rFFChA:yIl2AUoC8zA&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?d=yIl2AUoC8zA&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=Pr3qKuEbPDI:tba79rFFChA:dnMXMwOfBR0&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?d=dnMXMwOfBR0&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=Pr3qKuEbPDI:tba79rFFChA:F7zBnMyn0Lo&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?i=Pr3qKuEbPDI:tba79rFFChA:F7zBnMyn0Lo&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=Pr3qKuEbPDI:tba79rFFChA:gIN9vFwOqvQ&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?i=Pr3qKuEbPDI:tba79rFFChA:gIN9vFwOqvQ&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=Pr3qKuEbPDI:tba79rFFChA:qj6IDK7rITs&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?d=qj6IDK7rITs&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=Pr3qKuEbPDI:tba79rFFChA:V_sGLiPBpWU&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?i=Pr3qKuEbPDI:tba79rFFChA:V_sGLiPBpWU&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/IntoMobile/~4/Pr3qKuEbPDI&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-01T19:33:58+00:00</dc:date>
+	<dc:creator>Ian Kersey</dc:creator>
+</item>
+<item rdf:about="http://liliputing.com/?p=57026">
+	<title>Liliputing: Microsoft Surface Pro with 256GB of storage coming soon for $1200</title>
+	<link>http://liliputing.com/2013/07/microsoft-surface-pro-with-256gb-of-storage-coming-soon-for-1200.html</link>
+	<content:encoded>&lt;p&gt;Microsoft’s 256GB Surface Pro tablet is coming to America, where it looks like it’ll be available soon for $1200.&lt;/p&gt;
+&lt;p&gt;Right now you can only pick up Microsoft’s Windows 8 tablet in 64GB or 128GB flavors &lt;a href=&quot;http://redirectingat.com?id=32X105&amp;amp;xs=1&amp;amp;url=http%3A%2F%2Fwww.microsoftstore.com%2Fstore%2Fmsusa%2Fen_US%2Fpdp%2FproductID.275287300&amp;amp;sref=rss&quot;&gt;for $899 and up&lt;/a&gt; in the US, but &lt;a href=&quot;http://redirectingat.com?id=32X105&amp;amp;xs=1&amp;amp;url=http%3A%2F%2Fwww.wpcentral.com%2Fsurface-pro-256-gb-ssd-shows-up-for-sale-cdw-1199&amp;amp;sref=rss&quot;&gt;WP Central spotted&lt;/a&gt; a &lt;a href=&quot;http://redirectingat.com?id=32X105&amp;amp;xs=1&amp;amp;url=http%3A%2F%2Fwww.cdw.com%2Fshop%2Fproducts%2FMicrosoft-Surface-Tablet-no-keyboard-Core-i5-3317U%2F3065473.aspx&amp;amp;sref=rss&quot;&gt;listing at CDW&lt;/a&gt; that suggests the new 256GB model will be available soon for $1199.99.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Microsoft Surface Pro&quot; class=&quot;aligncenter size-full wp-image-55932&quot; height=&quot;365&quot; src=&quot;http://liliputing.wpengine.netdna-cdn.com/wp-content/uploads/2013/05/surface-pro_01.jpg&quot; width=&quot;600&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;This isn’t the first time we’ve seen Microsoft’s tablet sporting a 256GB solid state drive. It &lt;a href=&quot;http://liliputing.com/2013/05/microsoft-surface-pro-to-support-up-to-256gb-of-storage-in-japan.html&quot;&gt;showed up in Japan in May&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Since Microsoft positions the Surface Pro as a full-fledged PC, it’s nice to get a model with a fairly roomy SSD. If you treat a tablet as a secondary device that you use along with a laptop or desktop, a 64GB drive might make sense. But if you plan to store a large number of documents, apps, games, music, it’s nice to have a little more space.&lt;/p&gt;
+&lt;p&gt;Like other Surface Pro models, the new 256GB model features a 10.6 inch, 1920 x 1080 pixel display, an Intel Core i5-3317U Ivy Bridge processor with Intel HD 4000 graphics, WiFi, Bluetooth, and 4GB of RAM.&lt;/p&gt;
+&lt;p&gt;It has a capacitive touchscreen and an active digitizer, which means you can interact with the device using your fingertips or a pressure-sensitive digital pen that lets you write, draw, tap, or hover, among other things. You can also pick up an optional Touch Cover or Type Cover if you’re a fan of that old-fashioned typing action.&lt;/p&gt;
+&lt;p&gt;The Surface Pro isn’t exactly the cheapest tablet on the market these days, but it’s one of the most powerful — especially if you want access to full-fledged Windows apps rather than mobile apps designed for iOS or Android devices.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;via &lt;a href=&quot;http://redirectingat.com?id=32X105&amp;amp;xs=1&amp;amp;url=http%3A%2F%2Fwww.theverge.com%2F2013%2F7%2F1%2F4483348%2Fmicrosoft-bringing-256gb-surface-pro-to-north-america&amp;amp;sref=rss&quot;&gt;The Verge&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://liliputing.com/2013/07/microsoft-surface-pro-with-256gb-of-storage-coming-soon-for-1200.html&quot;&gt;Microsoft Surface Pro with 256GB of storage coming soon for $1200&lt;/a&gt; is a post from: &lt;a href=&quot;http://liliputing.com&quot;&gt;Liliputing&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T19:30:09+00:00</dc:date>
+	<dc:creator>Brad Linder</dc:creator>
+</item>
+<item rdf:about="http://bits.blogs.nytimes.com/2013/07/01/xbox-chief-is-leaving-microsoft/">
+	<title>Bits: Xbox Chief Is Leaving Microsoft</title>
+	<link>http://bits.blogs.nytimes.com/2013/07/01/xbox-chief-is-leaving-microsoft/</link>
+	<content:encoded>Just months before Microsoft plans to release a new video game console, Don Mattrick, the head of its games business, plans to leave the company for a position elsewhere in the games industry. Mr. Mattrick has been in talks with Zynga about a top job at the social games publisher. He has also been in discussions with E.A. for the chief job there.</content:encoded>
+	<dc:date>2013-07-01T19:29:27+00:00</dc:date>
+	<dc:creator>By NICK WINGFIELD</dc:creator>
+</item>
+<item rdf:about="http://www.thelineofbestfit.com/?p=129272">
+	<title>The Line Of Best Fit: Listen: Amason – Went To War</title>
+	<link>http://www.thelineofbestfit.com/new-music/song-of-the-day/listen-amason-went-to-war-129272?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=listen-amason-went-to-war</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;amason - went to war&quot; class=&quot;alignnone size-full wp-image-129274&quot; height=&quot;500&quot; src=&quot;http://media.thelineofbestfit.com/wp-content/media/2013/07/amason-went-to-war.jpg&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stockholm based artist collective &lt;a class=&quot;ext-link&quot; href=&quot;https://www.facebook.com/ingrid.swe?fref=ts&quot; rel=&quot;external&quot; target=&quot;_blank&quot;&gt;INGRID&lt;/a&gt; continue their ascent as one of the most intriguing creative forces to emerge in some time. Fresh from announcing the release of the new &lt;a href=&quot;http://www.thelineofbestfit.com/artist/David Lynch&quot;&gt;David Lynch&lt;/a&gt; LP &lt;em&gt;The Big Dream,&lt;/em&gt; the label reveal ‘Went To War’ – a perversely addictive taster from new ‘supergroup’ &lt;strong&gt;&lt;a href=&quot;http://www.thelineofbestfit.com/artist/Amason&quot;&gt;Amason&lt;/a&gt;&lt;/strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Made up of Gustav Ejstes (&lt;a href=&quot;http://www.thelineofbestfit.com/artist/Dungen&quot;&gt;Dungen&lt;/a&gt;), Amanda Hollingby Matsson (&lt;a href=&quot;http://www.thelineofbestfit.com/artist/Idiot Wind&quot;&gt;Idiot Wind&lt;/a&gt;), Nils Törnqvist, Petter Winnberg (&lt;a href=&quot;http://www.thelineofbestfit.com/artist/Little Majorette&quot;&gt;Little Majorette&lt;/a&gt;) and Pontus Winnberg (&lt;a href=&quot;http://www.thelineofbestfit.com/artist/Miike Snow&quot;&gt;Miike Snow&lt;/a&gt;), ‘Went To War’ taps into the classic prog sensibilities that we’ve come to expect from INGRID.&lt;/p&gt;
+&lt;p&gt;A motorik groove captivates from the opening few bars, with subtle layers enveloping into a breezy lullaby – all augmented by two totally arresting vocal performances. Holding up on countless repeated plays, ‘Went To War’ is an absolute delight.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T19:26:24+00:00</dc:date>
+	<dc:creator>Rich Thane</dc:creator>
+</item>
+<item rdf:about="http://evolver.fm/?p=35077">
+	<title>Evolver.fm: Preview: What’s Up With ‘Project Daisy’ Music Service?</title>
+	<link>http://evolver.fm/2013/07/01/preview-whats-up-with-project-daisy-music-service/</link>
+	<content:encoded>It’s July 1, which means we’re into the second half of 2013. As such, this seems like a good time to ask: Where are the big new celebrity-driven music services that were supposed to up-end the status quo and make everybody care about music in new ways? These would be Project “Daisy,” initially created by [...]</content:encoded>
+	<dc:date>2013-07-01T19:26:23+00:00</dc:date>
+	<dc:creator>Eliot Van Buskirk</dc:creator>
+</item>
+<item rdf:about="http://bgr.com/?p=775116">
+	<title>The Boy Genius Report: MacBook Air continues to crush ultrabooks</title>
+	<link>http://feedproxy.google.com/~r/TheBoyGeniusReport/~3/sF-Ismx1gjk/</link>
+	<content:encoded>&lt;center&gt;&lt;a class=&quot;bgr-rss-featured-image bgr-rss-test-class&quot; href=&quot;http://bgr.com/2013/07/01/macbook-air-market-share/&quot;&gt;&lt;img alt=&quot;MacBook Air Market Share&quot; class=&quot;attachment-feed_normal wp-post-image&quot; height=&quot;407&quot; src=&quot;http://boygeniusreport.files.wordpress.com/2010/10/screen-shot-2010-10-29-at-12-59-07-pm.jpg?w=610&quot; title=&quot;MacBook Air Market Share&quot; width=&quot;610&quot; /&gt;&lt;/a&gt;&lt;/center&gt;A new report suggests that &lt;a href=&quot;http://bgr.com/tag/apple&quot;&gt;Apple&lt;/a&gt; continues to control the majority of the &quot;thin-and-light&quot; laptop market. According to data from market research firm NPD Group, &lt;a href=&quot;http://news.cnet.com/8301-13579_3-57591652-37/macbook-air-rules-thin-and-light-laptop-market-says-npd/&quot;&gt;per &lt;em&gt;CNET&lt;/em&gt;&lt;/a&gt;, the &lt;a href=&quot;http://bgr.com/tag/macbook-air&quot;&gt;MacBook Air&lt;/a&gt; dominated the category during the first five months of the year, capturing 56% of thin-and-light laptop sales in the United States. Ultrabooks from a wide range of PC vendors made up the remaining 44%. Apple is expected to continue its dominance with &lt;a href=&quot;http://bgr.com/2013/06/10/apple-macbook-air-refresh-release-date/&quot;&gt;the release of new MacBook Air models&lt;/a&gt;, which have been praised for their improved processors and impressive battery life. &lt;a href=&quot;http://bgr.com/tag/microsoft&quot;&gt;Microsoft&lt;/a&gt; and its manufacturing partners don't plan to go down quietly, however. Companies such as HP, Sony, Samsung and Lenovo plan to bring a variety of touch-enabled laptop-tablet hybrids running the new Windows 8.1 operating system to the market in the coming months.&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/TheBoyGeniusReport/~4/sF-Ismx1gjk&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-01T19:25:33+00:00</dc:date>
+	<dc:creator>Dan Graziano</dc:creator>
+</item>
+<item rdf:about="http://johnaugust.com/?p=11089">
+	<title>johnaugust.com: Eating dessert first</title>
+	<link>http://johnaugust.com/2013/eating-dessert-first</link>
+	<content:encoded>&lt;p&gt;Joss Whedon on &lt;a href=&quot;http://www.fastcocreate.com/1683167/how-to-be-prolific-guidelines-for-getting-it-done-from-joss-whedon&quot;&gt;getting things written&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For me, it boils down to specificity, knowing exactly what I’m trying to accomplish, because if I have three projects, it’s ‘Oh, maybe I’ll work on S.H.I.E.L.D. or maybe I’ll work on this or this.’&lt;/p&gt;
+  
+  &lt;p&gt;You know, it’s so easy to just get nothing done, but you’ve got to rock a little David Allen out to be able to get things done and break your list down into next actions. And this is true of producing and directing but even of writing.&lt;/p&gt;
+  
+  &lt;p&gt;It’s like, Okay, today I am going to figure out this action sequence. Today, I am going to watch a shit ton of other action sequences, whatever it is, but that would be the other side of it after the specificity of knowing. Don’t just say, ‘Oh, I need to work on that.’ Say, ‘I need to work on this element of that.’ Absolutely eat dessert first. &lt;strong&gt;The thing that you want to do the most, do that.&lt;/strong&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded>
+	<dc:date>2013-07-01T19:25:32+00:00</dc:date>
+	<dc:creator>John</dc:creator>
+</item>
+<item rdf:about="http://www.overcomingbias.com/?p=30478">
+	<title>Overcoming Bias: Me On Big Picture Science</title>
+	<link>http://www.overcomingbias.com/2013/07/me-on-big-picture-science.html</link>
+	<content:encoded>&lt;p&gt;I’m the first of four folks interviewed for the “&lt;a href=&quot;http://radio.seti.org/episodes/Meet_Your_Replacements&quot;&gt;Meet Your Replacements&lt;/a&gt;” episode of the SETI Institute’s &lt;a href=&quot;http://radio.seti.org/&quot;&gt;&lt;em&gt;Big Picture Science&lt;/em&gt;&lt;/a&gt; radio show. The topic:&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;There’s no one like you. At least, not yet. But in some visions of the future, androids can do just about everything, computers will hook directly into your brain, and genetic human-hybrids with exotic traits will be walking the streets. So could humans become an endangered species?&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;Be prepared to meet the new-and-improved you. But how much human would actually remain in the humanoids of the future?&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;Plus, tips for preventing our own extinction in the face of inevitable natural catastrophes.&lt;/p&gt;
+&lt;p&gt;My part is with Seth Shostak, and 9 minutes long. I talk about ems, naturally. The other three guests are Luke Muehlhauser, Stuart Newman, &amp;amp; Annalee Newitz.&lt;/p&gt;
+&lt;p&gt;It is a pretty good show. They &lt;a href=&quot;http://radio.seti.org/pages/about_the_show&quot;&gt;say&lt;/a&gt; they are “supported in part by Sami David, Rena Shulsky David, and the NASA Astrobiology Institute.” My thanks to them as well.&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T19:25:30+00:00</dc:date>
+	<dc:creator>Robin Hanson</dc:creator>
+</item>
+<item rdf:about="http://www.insidefacebook.com/?p=83369">
+	<title>Inside Facebook: Q&amp;A with Facebook Director of Small Business Dan Levy (Part I)</title>
+	<link>http://www.insidefacebook.com/2013/07/01/qa-with-facebook-director-small-business-dan-levy-part-i/</link>
+	<content:encoded>&lt;p&gt;&lt;a href=&quot;http://www.insidefacebook.com/wp-content/uploads/2013/07/DanLevy300.jpg&quot;&gt;&lt;img alt=&quot;DanLevy300&quot; class=&quot;alignright size-full wp-image-83370&quot; height=&quot;204&quot; src=&quot;http://www.insidefacebook.com/wp-content/uploads/2013/07/DanLevy300.jpg&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;Facebook advertising isn’t just for the Starbucks and Coca-Colas of the world. In the past few years, small businesses have taken to Facebook not only to connect with loyal fans, but to advertise to future customers.&lt;/p&gt;
+&lt;p&gt;Facebook announced two weeks ago that &lt;a href=&quot;http://www.insidefacebook.com/2013/06/18/facebook-celebrates-1-million-active-advertiser-mark/&quot; target=&quot;_blank&quot;&gt;more than 1 million advertisers&lt;/a&gt; have purchased some kind of ad unit within the past 28 days. This is huge for the company, and shows that there’s an ecosystem of businesses big and small on the site. Facebook Director of Small Business Dan Levy chatted with InsideFacebook.com about how advertising through the site has proven beneficial for small businesses, and what the company plans to do in the future to continue to help these advertisers who don’t have millions of dollars or a marketing department.&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;more-83369&quot;&gt;&lt;/span&gt;Levy, before joining Facebook in 2008, was a small business owner himself. He founded Justarrive.com, a ticket and marketing service for professional and college sports organizations. He came to Facebook from Pay Pal, where he lead product and operations organizations around the world. Now he leads the team that offers support to small businesses who want to grow through Facebook.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Inside Facebook: You recently celebrated the 1 million advertiser mark at Facebook. Do you have a ballpark figure of how many of them are small businesses?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dan Levy: Yeah, last week we announced a million active advertisers on Facebook — meaning people that spent in the last 28 days. Obviously there’s a lot more businesses on Facebook that don’t spend right now, but the vast majority of that 1 million are small businesses. When you think about it, there’s just not that many big businesses in the world. I don’t know how many (are small businesses), but it’s a vast majority.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IFB: When did you realize that Facebook could be a force for small businesses?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Levy: It’s interesting. Small businesses have been on Facebook since we started the pages product. We think businesses have been using word of mouth as what would be social media before social media existed forever. Whether it was having their customers talk about them, or talking to folks as they were coming down the street — we think it’s a time-honored tradition that word of mouth helps small businesses.&lt;/p&gt;
+&lt;p&gt;At Facebook, as soon as we started the pages product, which was a place where something that wasn’t a person could be on Facebook — a place, a business — small businesses were early adopters of that. So we had small businesses on Facebook early on, and now there are more than 16 million local small businesses with a page on Facebook.&lt;/p&gt;
+&lt;p&gt;We’ve always known that small businesses have been good on Facebook — not only for them, but also because users want to connect with them. I think we’ve obviously seen a lot of momentum in the last few years, especially this past year, as businesses have been using a lot more of our simplified ad products and mobile ad products to reach their customers.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;42&quot; class=&quot;aligncenter size-medium wp-image-82882&quot; height=&quot;245&quot; src=&quot;http://www.insidefacebook.com/wp-content/uploads/2013/06/42-500x245.png&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IFB: Facebook has been making a huge &lt;a href=&quot;http://www.insidefacebook.com/2013/06/07/facebook-advertising-flow-smbs/&quot; target=&quot;_blank&quot;&gt;push toward simplifying ads&lt;/a&gt;, and focusing on the goal — “Do you want to get more page likes?” “Do you want more reach?” “Do you want to get more people in the door?” Has a lot of this push for simplification been geared toward small businesses?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Levy: I think we hit the key point, which is it’s really about the objectives and goals for businesses. The feedback that I hear all the time, as I talk with small business owners, is: we’re trying to get more customers in the door, we want to do more online sales, we want more people to know that we’ve moved to a new location, or we have an application that we want people to buy. We think those are very universal objectives and goals that translate not only for businesses but for small businesses.&lt;/p&gt;
+&lt;p&gt;Simplification, for us, I think works for everybody, because we know people have limited time and money — especially for small businesses. Their time is as valuable as their money. They don’t have a whole marketing department working for them in some cases. Simplification is about trying to help them reach their objectives as quickly and as powerfully as possible.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IFB: How much are advertisers spending, on average?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Levy: We don’t have how much they’re spending on average, but we do know that we have advertisers, as you know, that spend tens of millions of dollars on Facebook, and advertisers that will spend $5 a week on Facebook. You can get started very small and a lot of businesses on Facebook aren’t paying. They’re using our free pages product and are trying to get started on the Web. We hope that they’ll see the value (of advertising), which is what we’re excited about.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IFB: So the recent simplification push, is that for businesses that have a page on Facebook, but haven’t advertised? Is this a way to introduce Facebook advertising to a new group of businesses?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Levy: Here’s a great way to think about it: one of the common things that small business owners do is publishing on their page. They would take a picture, they would write an update, they would post a video, and it would reach their fans. They’d get good dialogue and good interaction. In a lot of cases, we would see, “Hey, this post seems to be doing really well; how do I get more people to see it?”&lt;/p&gt;
+&lt;p&gt;Even though we think the create flow and some of the other tools are really powerful for reaching exactly the people you want to see it, in many cases, a business owner is like, “I actually like what I’m doing, I just want more people to see it.” A promoted post is about taking something they were doing already and just letting them amplify it. Just adding a budget to reach more people. Take away the distraction of all the other choices and just let them achieve their real objective, which is to get their message in front of people who care.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;In part two of the interview, which will run Tuesday, Levy will discuss how small businesses have driven in-store conversions through Facebook, as well as how Facebook’s mobile efforts are helping local business owners get more foot traffic into the store.&lt;/em&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T19:23:26+00:00</dc:date>
+	<dc:creator>Justin Lafferty</dc:creator>
+</item>
+<item rdf:about="http://www.intomobile.com/?p=437717">
+	<title>IntoMobile: Microsoft Surface Pro with 256GB storage now available in U.S.</title>
+	<link>http://feedproxy.google.com/~r/IntoMobile/~3/fTMC-AuPqzA/</link>
+	<content:encoded>&lt;img alt=&quot;microsoft-surface-pro&quot; class=&quot;attachment-main-image wp-post-image&quot; height=&quot;366&quot; src=&quot;http://images.intomobile.com/wp-content/uploads/2013/02/microsoft-surface-pro.jpg&quot; title=&quot;microsoft-surface-pro&quot; width=&quot;650&quot; /&gt;&lt;p&gt;Microsoft’s Surface Pro tablet/laptop hybrid is now available in the U.S. in a new flavor: 256GB of storage, the most offered for the entire line. It started shipping in Japan last month, but now it has shown up on CDW.com with availability between 4-6 days. It has yet to appear officially on Microsoft’s website, but one might assume it will within that same timespan.&lt;/p&gt;
+&lt;p&gt;Because of the increase in storage, you’ll notice the Surface Pro has a new price tag attached to it: $1,199. Yep, say goodbye to twelve Benjamins for this thing. That doesn’t come with the keyboard either, so if you want that, prepare to give Microsoft some additional money. One last caveat: don’t forget that the Surface itself takes away an enormous amount of storage. &lt;a href=&quot;http://www.intomobile.com/2013/01/29/64gb-microsoft-surface-pro-has-just-23gb-available-user-storage/&quot;&gt;The 64GB model only has 23GB of storage available to users&lt;/a&gt; and the 128GB has 83GB. Buying the 256GB model means you’ll probably end up with somewhere around 200GB of user-available storage.&lt;/p&gt;
+&lt;p&gt;CDW lists the other specs as an Intel Core i5 processor, 4GB of RAM, a 1080p HD display, Intel HD Graphics 4000, and all the usual suspects like 802.11n WiFi and Bluetooth 4.0.&lt;/p&gt;
+&lt;p&gt;First you have to be interested in buying a Surface. Then you have to be interested in buying a Surface Pro. Then you’d need the 256GB of storage. Finally, you have to be willing to pay $1,199. When filtered down, it doesn’t seem like very many people will be interested in buying this. Although if you’re one of them, by all means head over to &lt;a href=&quot;http://www.cdw.com/shop/products/Microsoft-Surface-Tablet-no-keyboard-Core-i5-3317U/3065473.aspx&quot;&gt;CDW.com&lt;/a&gt; to check it out.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&quot;http://www.ubergizmo.com/2013/07/microsoft-surface-pro-with-256gb-goes-on-sale-in-u-s/&quot;&gt;via Ubergizmo&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://www.intomobile.com/2013/07/01/microsoft-surface-pro-256gb-storage-now-available-us/&quot;&gt;Microsoft Surface Pro with 256GB storage now available in U.S.&lt;/a&gt; appeared first on &lt;a href=&quot;http://www.intomobile.com&quot;&gt;IntoMobile&lt;/a&gt;.&lt;/p&gt; &lt;p style=&quot;padding: 10px; background: #ddd; border: 1px solid #ccc; clear: both;&quot;&gt;
+       &lt;a href=&quot;http://www.intomobile.com/2013/07/01/microsoft-surface-pro-256gb-storage-now-available-us/&quot; target=&quot;_blank&quot;&gt;Microsoft Surface Pro with 256GB storage now available in U.S.&lt;/a&gt; originally appeared on &lt;a href=&quot;http://www.intomobile.com&quot; target=&quot;_blank&quot;&gt;IntoMobile.com&lt;/a&gt; on 2013-07-01T19:22:01Z. &lt;span style=&quot;color: #ddd;&quot;&gt;FV1gMYsz9b5j&lt;/span&gt;
+&lt;/p&gt;&lt;div class=&quot;feedflare&quot;&gt;
+&lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=fTMC-AuPqzA:W3bTTcz-BtQ:yIl2AUoC8zA&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?d=yIl2AUoC8zA&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=fTMC-AuPqzA:W3bTTcz-BtQ:dnMXMwOfBR0&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?d=dnMXMwOfBR0&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=fTMC-AuPqzA:W3bTTcz-BtQ:F7zBnMyn0Lo&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?i=fTMC-AuPqzA:W3bTTcz-BtQ:F7zBnMyn0Lo&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=fTMC-AuPqzA:W3bTTcz-BtQ:gIN9vFwOqvQ&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?i=fTMC-AuPqzA:W3bTTcz-BtQ:gIN9vFwOqvQ&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=fTMC-AuPqzA:W3bTTcz-BtQ:qj6IDK7rITs&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?d=qj6IDK7rITs&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=fTMC-AuPqzA:W3bTTcz-BtQ:V_sGLiPBpWU&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?i=fTMC-AuPqzA:W3bTTcz-BtQ:V_sGLiPBpWU&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/IntoMobile/~4/fTMC-AuPqzA&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-01T19:22:01+00:00</dc:date>
+	<dc:creator>George Tinari</dc:creator>
+</item>
+<item rdf:about="http://phandroid.com/?p=122543">
+	<title>Android Phone Fans: Google Glass XE7 update brings web browsing, improved voice commands, and more</title>
+	<link>http://phandroid.com/2013/07/01/google-glass-xe7-update-brings-web-browsing-improved-voice-commands-and-more/</link>
+	<content:encoded>Right on schedule, Google has begun pushing out their latest Google Glass update: XE7. The latest software update further improves functionality of the devices as it inches closer to retail release. XE7 introduces web browsing, improved voice commands, and more.</content:encoded>
+	<dc:date>2013-07-01T19:21:19+00:00</dc:date>
+	<dc:creator>Chris Chavez</dc:creator>
+</item>
+<item rdf:about="http://arstechnica.com/?p=301055">
+	<title>Ars Technica: Android 4.3 teardown reveals small, blink-and-you’ll-miss-them changes</title>
+	<link>http://arstechnica.com/gadgets/2013/07/android-4-3-teardown-reveals-small-blink-and-youll-miss-them-changes/</link>
+	<content:encoded>&lt;div id=&quot;rss-wrap&quot;&gt; &lt;p&gt;Over the weekend, the intrepid software tinkerers over at Android Police &lt;a href=&quot;http://www.androidpolice.com/2013/06/29/apk-teardown-android-4-3s-wi-fi-is-always-on-and-always-scanning-unless-you-find-the-special-checkbox/&quot;&gt;picked&lt;/a&gt; apart last week's &lt;a href=&quot;http://arstechnica.com/gadgets/2013/06/heres-what-android-4-3-might-look-like-on-a-galaxy-s-4/&quot;&gt;Android 4.3 leak&lt;/a&gt;. The screenshots were initially published on &lt;a href=&quot;http://www.sammobile.com/2013/06/28/install-android-4-3-on-your-galaxy-s4-gt-i9505-ported-from-google-play-edition-gt-i9505g/&quot;&gt;SamMobile&lt;/a&gt; without much context, but Android Police has managed to identify some of the expected new features.&lt;/p&gt;
+&lt;p&gt;Android 4.3 is only a minor update, but it may make a big difference for end users. As we picked out from the leaked screenshots last week, Google has included a new Wi-Fi power setting that leaves the Wi-Fi on all the time. As Android Police explains:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;…at least partially on, all the time. Now I know you might immediately scream &quot;MY BATTERY LIFES!!&quot; but this will probably &lt;em&gt;save&lt;/em&gt; battery. Google wants you to leave Wi-Fi on so that apps can get your location, but consider that the other option for location is firing up the GPS chip, which is a battery's worst enemy.&lt;/p&gt;
+&lt;p&gt;The important thing to keep in mind if you hate this, you can turn it off&lt;strong&gt;.&lt;/strong&gt; The option is just buried under an &quot;advanced&quot; menu. Turning off &quot;Scanning always available&quot; will make &quot;off&quot; for Wi-Fi really be &quot;off.&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There is also plenty of evidence pointing to a newly revamped Camera application, which has &lt;a href=&quot;http://www.droid-life.com/2013/06/26/new-camera-ui-boot-animation-and-wallpaper-arrive-with-google-play-edition-phones-still-android-4-2-2/&quot;&gt;shipped&lt;/a&gt; with the most recent Google Play Editions of the Samsung Galaxy S 4 and HTC One. Bluetooth LE will be a part of the update as well, and this should help make the technology less of a battery sucker. Overall, the leaks associated with Android 4.3 demonstrate a theme—a desire to make the OS a bit more energy-efficient.&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;a href=&quot;http://arstechnica.com/gadgets/2013/07/android-4-3-teardown-reveals-small-blink-and-youll-miss-them-changes/#p3&quot;&gt;Read 1 remaining paragraphs&lt;/a&gt; | &lt;a href=&quot;http://arstechnica.com/gadgets/2013/07/android-4-3-teardown-reveals-small-blink-and-youll-miss-them-changes/?comments=1&quot;&gt;Comments&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T19:20:27+00:00</dc:date>
+	<dc:creator>Florence Ion</dc:creator>
+</item>
+<item rdf:about="tag:blogger.com,1999:blog-28060897.post-5157451943398807608">
+	<title>A CUP OF JO: Family vacation idea: Positano</title>
+	<link>http://feedproxy.google.com/~r/blogspot/bboSV/~3/hkoVJTatXjo/family-vacation-idea-positano.html</link>
+	<content:encoded>&lt;a href=&quot;http://3.bp.blogspot.com/-SlE4xsk4WXw/UcyNxF0nHvI/AAAAAAABC0o/R6Nq0sHTcfE/s1212/positano-italy-family-vacation--tips-.png&quot; style=&quot;clear: left; float: left; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;575&quot; src=&quot;http://3.bp.blogspot.com/-SlE4xsk4WXw/UcyNxF0nHvI/AAAAAAABC0o/R6Nq0sHTcfE/s575/positano-italy-family-vacation--tips-.png&quot; width=&quot;575&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://3.bp.blogspot.com/-l72NVAVaOi8/UcyNxAgtBqI/AAAAAAABC0s/kCF2k8phAnw/s1208/positano-italy-family-vacation-kids-.png&quot; style=&quot;clear: left; float: left; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;575&quot; src=&quot;http://3.bp.blogspot.com/-l72NVAVaOi8/UcyNxAgtBqI/AAAAAAABC0s/kCF2k8phAnw/s575/positano-italy-family-vacation-kids-.png&quot; width=&quot;575&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://4.bp.blogspot.com/-UWgJlNylA-Q/UcyNjuIvOcI/AAAAAAABCy0/VDkVI38VfWo/s1242/positano-family-vacation-.png&quot; style=&quot;clear: left; float: left; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;590&quot; src=&quot;http://4.bp.blogspot.com/-UWgJlNylA-Q/UcyNjuIvOcI/AAAAAAABCy0/VDkVI38VfWo/s590/positano-family-vacation-.png&quot; width=&quot;575&quot; /&gt;&lt;/a&gt;Courtney Adamo of &lt;a href=&quot;http://babyccinokids.com/shop/&quot; target=&quot;_blank&quot;&gt;Babyccino&lt;/a&gt; lives in London with her husband and four children—ages 8, 6, 4 and 6 months. She and her husband first visited Positano ten years ago, and they loved it so much, they vowed to return every year. The locals now joke that Courtney and her husband show up with a new baby every summer! Here are her insider tips...&lt;a href=&quot;http://joannagoddard.blogspot.com/2013/07/family-vacation-idea-positano.html#more&quot;&gt;&lt;strong&gt;Read More &amp;gt;&lt;/strong&gt;&lt;/a&gt;&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/blogspot/bboSV/~4/hkoVJTatXjo&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-01T19:19:00+00:00</dc:date>
+	<dc:creator>Joanna Goddard</dc:creator>
+</item>
+<item rdf:about="tag:nielsenhayden.com,2013:/makinglight//3.15212">
+	<title>Making Light: A Ridge in Pennsylvania</title>
+	<link>http://nielsenhayden.com/makinglight/archives/015212.html</link>
+	<content:encoded>To begin with, you must understand that Cemetery Ridge, just south and east of the town of Gettysburg, Pennsylvania, is beautiful defensive ground.
+
+&lt;p&gt; One hundred and fifty years ago today, at about five in the morning, two brigades of Harry Heth's division in A. P. Hill's corp of the Army of Northern Virginia stepped out toward Gettysburg to make a reconnaissance in force.
+
+&lt;/p&gt;&lt;p&gt;July first, 1863, was a Wednesday. The sky had been getting light for a while; by 05:12 the last stars  disappeared, although the sun would not rise until 05:44.
+
+&lt;/p&gt;&lt;p&gt;The rebels had already taken Gettysburg.  On June the 26th Jubal Early's troops had occupied the town after driving off some local militia in a series of minor skirmishes, and laid the town under tribute.  They did not take any significant supplies, however, when they pulled out the next morning.
+
+&lt;/p&gt;&lt;p&gt;On the 29th, Lee learned that the Army of the Potomac had crossed the Potomac.  He ordered his army to concentrate at Cashtown, Pennsylvania, and in the meantime to avoid any general engagement with Federal forces.  The next day, eight miles to the east of Cashtown, Heth sent a brigade back to Gettysburg to gather supplies -- primarily shoes.  As they approached the town, though, they spied a column of Federal cavalry, and declined to make contact.
+
+&lt;/p&gt;&lt;p&gt;That cavalry was a division under the command of John Buford.  Cavalry was used, at the time, for scouting and security, and for fighting other cavalry.  Buford was aware that the rebel army was somewhere up ahead, and as he scouted the ground on the 30th of June he noted the defensive properties of the ridges around Gettysburg.  He was aware that there were a significant number of rebel troops nearby.
+
+&lt;/p&gt;&lt;p&gt;Buford set up lines on McPherson Ridge, Herr Ridge, and Seminary Ridge to the north and west of town, intending to fall back slowly, to give the rest of the army time to come up and take position on Cemetery Ridge to the south of Gettysburg.  They fought as dismounted cavalry -- armed with breech-loading carbines -- of every four men three in line spaced thirty feet apart and the fourth in the rear holding their horses.
+
+&lt;/p&gt;&lt;p&gt;Ahead of the lines, mounted vedettes -- what we would call listening posts -- waited for contact.  At around 07:30 on July first, that contact came.  Lt. Marcellus Jones, Company E. 8th Illinois, stationed out on the Chambersburg Pike, fired the first shot of the Battle of Gettysburg, intended as a signal that there was activity to his front, not actually firing at anyone.
+
+&lt;/p&gt;&lt;p&gt;The Confederates believed, at first, that they were facing more local militia, and came on in three ranks of skirmishers.  Buford's dismounted troopers, however, did not break, and instead poured on such effective fire (Sharps carbines; .52 caliber, rate of fire 8-10 shots/minute, effective range 500 yards) supported by one battery of artillery, that Heth, an experienced infantry officer, considered that he was facing infantry.  He ordered his men into battle lines and brought up artillery, the maneuver taking about two hours to complete.  Sometime between 08:00 and 09:00 the Confederate advance resumed.
+
+&lt;/p&gt;&lt;p&gt;The overwhelming numbers of the rebels pushed Buford's men back off Herr Ridge.  They took their next defensive line two hundred yards to the east, on Belmont School House Ridge.  Another forty-five minutes and they were pushed back yet again, across a stream called Willoughby Run and up to McPherson's Ridge.
+
+&lt;/p&gt;&lt;p&gt;The purpose of the delaying action was to give time for the Federal infantry to arrive, to fight on a more equal basis of infantry against infantry.  General Reynolds of I Corp was  moving up rapidly.
+
+&lt;/p&gt;&lt;p&gt;As his men rallied on McPherson's Ridge, Buford sent a dispatch to General Meade, commanding officer of the Army of the Potomac, fourteen miles away in Taneytown, Maryland:
+&lt;/p&gt;&lt;blockquote&gt;The enemy's forces are advancing on me at this point, and are driving my pickets and skirmishers very rapidly. There is also a large force at Heidlersburg that is driving my pickets at that point from that direction. General Reynolds is advancing; and is within three miles of this point with his leading division. I am positive that the whole of A. P. Hill's force is advancing.
+&lt;/blockquote&gt;
+
+&lt;p&gt;This was Meade's first notice that a battle was happening.  Meade had only taken command of the Army of the Potomac on the 28th of June when Fighting Joe Hooker resigned.  He dispatched his aide, Winfield Scott Hancock, to assess the situation, while he got the Army of the Potomac moving in the direction of Gettysburg.
+
+&lt;/p&gt;&lt;p&gt;Meanwhile, back at Gettysburg, about ten in the morning, an entire Rebel brigade under James Archer was pressing up the hill toward McPherson's Ridge.
+
+&lt;/p&gt;&lt;p&gt;On the Union side, General Reynolds had ridden ahead of his troops, and met  General Buford with the words, &quot;What's the matter, John?&quot;  Buford pointed out at Heth's troops and replied, &quot;There's the devil to pay.&quot;
+
+&lt;/p&gt;&lt;p&gt;What Reynolds had coming up behind him at the double-quick was the Iron Brigade, the &quot;black-hatted bastards,&quot; one of the toughest units in the Union army.  He sent a message back to Meade: 
+
+&lt;/p&gt;&lt;blockquote&gt;The enemy is advancing in strong force, and I fear that he will go to the heights beyond the town before I can. I will fight him inch by inch, and if driven into the town, I will barricade the streets, and hold him back for as long as I can. &lt;/blockquote&gt;
+
+&lt;p&gt;The message got to Meade about 11:20, and Meade remarked &quot;Good! That is just like Reynolds, he will hold out to the bitter end.&quot;  What Meade couldn't have known was that Reynolds was already lying dead on the field, shot in the head at about 10:45.
+
+&lt;/p&gt;&lt;p&gt;Reynolds had been personally leading his troops into position: the 24th Michigan into McPherson's Woods, the 2nd Wisconsin to their right, moving up so rapidly that they didn't have time to load their rifles before they were in a fight.
+
+&lt;/p&gt;&lt;p&gt;The fresh reinforcements reversed the Confederate advance for a time, and re-crossed Willoughby Run.  General Archer, Heth's brigade commander, was captured along with about two hundred of his men.  But that was not to last.  The numbers that Heth was now bringing up were too heavy.  The Iron Brigade set up a defensive line inside the woods.  When they could no longer hold, they fell back to a second prepared line, then to a third.
+
+&lt;/p&gt;&lt;p&gt;Heth knew that he was in a bigger fight than he'd anticipated, and that the morning hadn't gone well.  He brought up the 26th North Carolina, the largest brigade of either army at Gettysburg, to make a frontal assault on the Iron Brigade.  About 14:30 they stepped off, supported by the rest of Pettigrew's Brigade.
+
+&lt;/p&gt;&lt;p&gt;The Union forces could not hold.  They were pushed back, step by step, until they reached the prepared barricades on Seminary Ridge.  They held off the first Rebel charge, and a second, but it soon became clear that they would have to abandon this position too.
+
+&lt;/p&gt;&lt;p&gt;Buford wrote another dispatch:
+
+&lt;/p&gt;&lt;blockquote&gt;A tremendous battle has been raging since 9:30 a.m., with varying success. At the present moment, the battle is raging on the road to Cashtown, and within short cannon range of town. General Reynolds was killed early this morning. In my opinion, there is no directing person.
+&lt;p&gt;P.S.-We need help now.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;On the right side of the Union line, the troops came under cannon fire from their own batteries up on Cemetery Ridge to the south and east of Gettysburg.  Believing that the Rebels were behind them, rather than that this was a friendly-fire incident, they fell back through the town.  With the flanks crumbling, the Union troops made a fighting retreat through Gettysburg, and up the sides of Cemetery Ridge.
+
+&lt;/p&gt;&lt;p&gt;Hancock, who had indeed assessed the situation, decided that Cemetery Ridge was &quot;the strongest position by nature upon which to fight a battle that I ever saw.&quot;  He directed the positions and defenses, while awaiting the remainder of the Army of the Potomac.
+
+&lt;/p&gt;&lt;p&gt;For the Confederate side, Lee ordered Ewell, Heth's superior, to take Cemetery Ridge &quot;if practicable.&quot;  Ewell decided that it wasn't -- and by the next day, sufficient Union reinforcements had arrived that taking Cemetery Ridge was impossible.
+
+&lt;/p&gt;&lt;p&gt;Sunset on the first of July was at 20:41.  The moon was full that night.
+
+&lt;/p&gt;&lt;p&gt;The 24th  Michigan had taken 73% casualties in the fight; it was never the same again.  The 26th North Carolina had taken 81% casualties, including their commanding officer and second in command.  Those two units suffered the highest regimental casualties of their respective sides in the entire three-day battle&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T19:18:37+00:00</dc:date>
+	<dc:creator>Jim Macdonald</dc:creator>
+</item>
+<item rdf:about="http://theapertureblog.com/?p=2043">
+	<title>The Aperture Blog: Camera Raw Update 4.07</title>
+	<link>http://feedproxy.google.com/~r/TheApertureBlog/~3/MbqVJ_TBnuA/</link>
+	<content:encoded>&lt;p&gt;Apple snuck out a quick Camera Raw update the other day, and I nearly missed it. It adds raw support for just three cameras :&lt;/p&gt;
+&lt;p&gt;Panasonic LUMIX DMC-G6&lt;br /&gt;
+Panasonic LUMIX DMC-GF6&lt;br /&gt;
+Sony Alpha SLT-A58&lt;/p&gt;
+&lt;p&gt;It’s available now in the App sore update panel&lt;/p&gt;
+&lt;div class=&quot;yarpp-related-rss&quot;&gt;
+&lt;p&gt;Related posts:&lt;/p&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://theapertureblog.com/2012/03/15/apple-releases-digital-camera-raw-compatibility-update-3-10/&quot; rel=&quot;bookmark&quot; title=&quot;Apple Releases Digital Camera RAW Compatibility Update 3.10&quot;&gt;Apple Releases Digital Camera RAW Compatibility Update 3.10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://theapertureblog.com/2012/11/30/digital-camera-raw-update-4-02/&quot; rel=&quot;bookmark&quot; title=&quot;Digital Camera Raw Update 4.02&quot;&gt;Digital Camera Raw Update 4.02&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://theapertureblog.com/2012/10/25/camera-raw-update-4-01/&quot; rel=&quot;bookmark&quot; title=&quot;Camera Raw Update 4.01&quot;&gt;Camera Raw Update 4.01&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/TheApertureBlog/~4/MbqVJ_TBnuA&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-01T19:18:26+00:00</dc:date>
+	<dc:creator>Thomas Fitzgerald</dc:creator>
+</item>
+<item rdf:about="http://mjtsai.com/blog/?p=7560">
+	<title>Michael Tsai's Weblog: Sustainable Businesses on the App Store</title>
+	<link>http://mjtsai.com/blog/2013/07/01/sustainable-businesses-on-the-app-store/</link>
+	<content:encoded>&lt;p&gt;&lt;a href=&quot;http://stratechery.com/2013/why-doesnt-apple-enable-sustainable-businesses-on-the-app-store/&quot;&gt;Ben Thompson&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote cite=&quot;http://stratechery.com/2013/why-doesnt-apple-enable-sustainable-businesses-on-the-app-store/&quot;&gt;&lt;p&gt;iOS 7 introduces radical change in nearly everything &lt;em&gt;except&lt;/em&gt; for app monetization.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+	<dc:date>2013-07-01T19:18:17+00:00</dc:date>
+	<dc:creator>Michael Tsai</dc:creator>
+</item>
+<item rdf:about="http://christiano.me/?p=2843">
+	<title>The Django community aggregator: Palestra GeoDjango no FISL</title>
+	<link>http://christiano.me/2013/07/01/palestra-geodjango-no-fisl/</link>
+	<content:encoded>&lt;div class=&quot;wp-caption alignleft&quot; id=&quot;attachment_2551&quot; style=&quot;width: 160px;&quot;&gt;&lt;a href=&quot;http://christiano.me/wp-content/uploads/2012/12/geodjango.png&quot;&gt;&lt;img alt=&quot;Geodjango&quot; class=&quot;size-thumbnail wp-image-2551&quot; height=&quot;150&quot; src=&quot;http://christiano.me/wp-content/uploads/2012/12/geodjango-150x150.png&quot; width=&quot;150&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;Geodjango&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Vou apresentar uma palestra sobre GeoDjango no primeiro dia do FISL.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Resumo da palestra&lt;/strong&gt;: Utilizando apenas soluções livres, é possível criar um sistema completo de informações geográficas (SIG/GIS), incluindo mapas (OpenStreetMap/Mapbox), banco de dados geográfico (PostGIS) e um framework web completo como o Django. Essa palestra detalha como integrar essas soluções para processamento de informações geográficas para exibir áreas e plotagens no mapa e territórios.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conteúdo&lt;/strong&gt;: O Django possui uma biblioteca excelente para trabalhar com informações geográficas, trata-se do &lt;em&gt;GeoDjango&lt;/em&gt;, que está bem estável, maduro e já vem integrado ao core do Django. Em conjunto com ele, o PostgreSQL possui uma extensão chamada PostGIS, capaz de criar um banco de dados geográfico e realizar cálculos diretamente via SQL. Para enriquecer mais o cenário de soluções livres, o OpenStreetMap é capaz de exibir belos mapas em alternativa ao Google Maps. É possível modificar os ’tiles’ usando o Mapbox, para mapas estilizados e camadas customizadas. Essa palestra tem como objetivo explicar alguns conceitos geográficos, detalhar o uso do PostGIS, como criar um projeto geográfico no Django e como integrar a solução ao OpenStreetMap. O resultado final será uma aplicação funcional, capaz de exibir polígonos, áreas, território e pontos no mapa, além de seus cálculos (de área, distância, está dentro, fora). A palestra vai mostrar como usar o ORM do Django para realizar esses cálculos geográficos, como importar shapes e contornos (como municípios e estados brasileiros) e cases de sucesso.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Local&lt;/strong&gt;: Sala 41D&lt;br /&gt;
+&lt;strong&gt;Data/Horário&lt;/strong&gt;: 03/07/2013 às 15:00&lt;/p&gt;
+&lt;p&gt;O post &lt;a href=&quot;http://christiano.me/2013/07/01/palestra-geodjango-no-fisl/&quot;&gt;Palestra GeoDjango no FISL&lt;/a&gt; apareceu primeiro em &lt;a href=&quot;http://christiano.me&quot;&gt;Christiano Anderson&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T19:17:54+00:00</dc:date>
+	<dc:creator>Christiano Anderson</dc:creator>
+</item>
+<item rdf:about="http://arstechnica.com/?p=301065">
+	<title>Ars Technica: Microsoft killing off TechNet subscriptions</title>
+	<link>http://arstechnica.com/information-technology/2013/07/microsoft-killing-off-technet-subscriptions/</link>
+	<content:encoded>&lt;div id=&quot;rss-wrap&quot;&gt; &lt;p&gt;Microsoft is set to &lt;a href=&quot;http://technet.microsoft.com/subscriptions/ms772427&quot;&gt;end its TechNet subscription scheme&lt;/a&gt;. Started in 1998, TechNet subscriptions gave IT professionals perpetual licenses to Windows client and server operating systems. Though these licenses were technically only authorized for evaluation purposes, many used them as cheap Windows licenses for personal machines.&lt;/p&gt;
+&lt;p&gt;First reported by &lt;a href=&quot;http://www.zdnet.com/microsoft-to-shut-down-technet-subscription-service-7000017541/&quot;&gt;Ed Bott&lt;/a&gt;, Microsoft today e-mailed TechNet subscribers to inform them of the changes. Both new subscriptions and renewals will remain on sale until August 31, 2013, with activation of subscriptions supported until September 30, 2013. With most subscriptions lasting one year, TechNet subscriber downloads will cease to work on September 30, 2014.&lt;/p&gt;
+&lt;p&gt;For volume license customers, TechNet subscription benefits will be available for the duration of the volume license agreement.&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;a href=&quot;http://arstechnica.com/information-technology/2013/07/microsoft-killing-off-technet-subscriptions/#p3&quot;&gt;Read 2 remaining paragraphs&lt;/a&gt; | &lt;a href=&quot;http://arstechnica.com/information-technology/2013/07/microsoft-killing-off-technet-subscriptions/?comments=1&quot;&gt;Comments&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T19:10:31+00:00</dc:date>
+	<dc:creator>Peter Bright</dc:creator>
+</item>
+<item rdf:about="tag:www.antipope.org,2013:/charlie/blog-static//1.3626">
+	<title>Charlie's Diary: We interrupt this broadcast ...</title>
+	<link>http://www.antipope.org/charlie/blog-static/2013/06/we-interrupt-this-broadcast.html</link>
+	<content:encoded>&lt;p&gt;Important news: although &lt;a href=&quot;http://www.amazon.co.uk/exec/obidos/ASIN/0356500993/charliesplace-21&quot;&gt;Neptune's Brood&lt;/a&gt; is officially published next Tuesday, and Big River Co won't release the ebook early or ship dead tree editions before Monday, &lt;em&gt;I am receiving reports&lt;/em&gt; that hardcovers have been sighted in the wild in branches of Waterstones!&lt;/p&gt;
+
+&lt;p&gt;And if you want to read the first chapter, Orbit (my UK publisher) &lt;a href=&quot;http://www.orbitbooks.net/2013/06/26/neptunes-brood-free-short-story-stros/&quot;&gt;have made it available here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Buy my book; help pay my elderly cat's vet bills.&lt;/p&gt;
+
+&lt;p&gt;(We now return to our usual programming, namely me writing too much and you folks haunting the comment threads wondering when I'll post a new update.)&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T19:09:28+00:00</dc:date>
+	<dc:creator>Charlie Stross</dc:creator>
+</item>
+<item rdf:about="http://phandroid.com/?p=122536">
+	<title>Android Phone Fans: What’s the best Android phone this summer? [July 2013]</title>
+	<link>http://phandroid.com/2013/07/01/whats-the-best-android-phone-this-summer-july-2013/</link>
+	<content:encoded>I didn’t think much would change since the last time we did our monthly best phones feature, one where a lot of you disagreed (that’s the beauty of opinions), but the landscape has surprisingly changed quite a bit. Sony unveiled a new monster of a phone, some new stock Android options of 2013′s top phones [...]</content:encoded>
+	<dc:date>2013-07-01T19:07:38+00:00</dc:date>
+	<dc:creator>Quentyn Kennemer</dc:creator>
+</item>
+<item rdf:about="tag:blogs.harvardbusiness.org,2007-03-31:126.14079">
+	<title>HarvardBusiness.org: Your Brand Is the Exhaust Fume of the Engine of Your Life</title>
+	<link>http://feeds.harvardbusiness.org/~r/harvardbusiness/~3/Fgt1eukS9Vs/your_brand_is_just_the_exhaust.html</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;pageFeatureImage&quot; src=&quot;http://static2.hbr.org/cs/flatmm/hed/20130702_1.jpg&quot; /&gt;&lt;/p&gt;
+      &lt;p&gt;&quot;How do you manage your brand?&quot; I get asked that question really often, especially at public-venue speaking events. Typically, I sigh. It is not that the question is silly, or the questioner shallow, but because this question itself represents so much of what is stopping all of us from doing work that matters.  &lt;/p&gt;
+
+&lt;p&gt;We talk about &quot;reinventing your brand&quot; when in reality the goal is to reinvent what you work on. We talk about the &quot;brand called you&quot; when we talk about being able to do more of the work you love to do.  We talk about ways to &quot;deliver on the impact equation&quot; without asking first, &quot;what is it you want to impact?&quot; We are told by marketing gurus that &quot;&lt;a href=&quot;http://www.swiss-miss.com/2013/05/sethgodin.html&quot;&gt;everyone now owns a media company!&lt;/a&gt;&quot; — as if somehow this is, itself, the goal — rather than a means to an end. Marketing has become the default language — the lingua franca of the day — that we use to describe work, and it is distorting how we evaluate what matters.&lt;/p&gt;
+
+&lt;p&gt;Yes, it's true that web tools can let you be known for the work you do more easily and more cost effectively, letting you own how you present yourself to the world. But that's probably the least interesting thing about these social constructs and social media tools. &lt;/p&gt;
+
+&lt;p&gt;The much more relevant point is that you now get to create, share, and connect ideas with others to do work, ideally meaningful and impactful work. As in the person who was able to accelerate scientific research because of the online game, &quot;Fold It.&quot;  This particular game enables important research in the medical field, research that is usually conducted by scientists with PhDs. But making it a game that anyone could play allowed someone &quot;unexpected&quot; to help. A woman who worked as an executive assistant by day turned out to be the best protein folder in the world at night.&lt;/p&gt;
+
+&lt;p&gt;As I've written in more depth &lt;a href=&quot;http://www.amazon.com/Rules-Creating-Value-Social-ebook/dp/B0097DM41E/ref=sr_1_4?ie=UTF8&amp;amp;qid=1347233631&amp;amp;sr=8-4&amp;amp;keywords=nilofer+merchant&quot;&gt;elsewhere&lt;/a&gt;, connected individuals can now achieve what once only centralized organizations could. The implications for this are huge. It changes the basis of market power for organizations because&lt;a href=&quot;http://blogs.hbr.org/cs/2012/10/innovation_isnt_tied_to_size_b.html&quot;&gt; size no longer protects competitive advantage&lt;/a&gt;. It changes management because people &lt;a href=&quot;http://hbr.org/2013/04/when-ted-lost-control-of-its-crowd/ar/1&quot;&gt;can figure out for themselves&lt;/a&gt; what needs to be done to implement the larger strategy. It changes careers because we no longer need to belong to an organization to be able to create scale or impact. You don't even need to be &quot;old enough&quot; — &lt;a href=&quot;http://blogs.hbr.org/cs/2013/05/why_you_should_let_a_5-year_ol.html&quot;&gt;five-year olds can invent consumer goods products&lt;/a&gt;. Today, what matters is the ability to create, not the ability to first prove you can. &lt;/p&gt;
+
+&lt;p&gt;So let's stop using the language of marketing to talk about meaning. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The truth is this: The brand follows the work. &lt;/strong&gt;Your brand is the exhaust created by the engine of your life. It is a by-product of what happens as you share what you are creating, and with whom you are creating. &lt;/p&gt;
+
+&lt;p&gt;It is a sign, yes. Significant, yes. But the real signal comes from being able to answer these two questions: &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;What is it you care about?&lt;/em&gt; It takes courage to find and follow an individual path; finding our own path takes us off the path that others are following, in directions that can seem distinctly alone. Each of us is standing in a place no one else stands in as a function of our history, experience, vision and hopes. I call this &lt;a href=&quot;http://blogs.hbr.org/cs/nilofermerchant.com/2013/01/17/onlyness-the-topic-and-the-talk-at-tedxhouston&quot;&gt;onlyness&lt;/a&gt;, that thing that only you can bring to any situation. Go with it, and you end up being able to design your own life — and &lt;a href=&quot;http://blogs.hbr.org/cs/2011/10/steve_jobs_legacy_design_your.html&quot;&gt;maybe redesign entire industries, too&lt;/a&gt;. At the very least, it lets you improve the results of any group you are a part of. Berkeley professors Charlan Jeanne Nemeth and Jack A. Goncalo have proven that &lt;a href=&quot;http://www.escholarship.org/uc/item/9n8060j4&quot;&gt;&quot;minority viewpoints&quot; aid the quality of decision making&lt;/a&gt; by juries, by teams, and for the purpose of innovation. In other words, even when distinct points of view turn out to be &lt;em&gt;wrong&lt;/em&gt;, speaking them lets everyone think better, create more solutions, and improve creativity. But if you don't know what it is you care about and why, you lack the ability to contribute meaningfully. &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How will you find and work with allies?&lt;/em&gt; While it may be lonely to step into your own path, once you do, you attract those with affinity. The clearer you are in your onlyness, the strong your magnet for the right people for you (and possibly repulsion for others.) This is a good thing. It helps you find, filter, and formulate. It eliminates wasted effort to convince those who will never be convinced. It lets you know what kind of workplace is right for you, and it lets you find the right people for your projects. It lets you align in purpose with others. Esther Dyson  &lt;a href=&quot;http://www.project-syndicate.org/commentary/the-socialization-of-professional-networking-by-esther-dyson&quot;&gt;points out that&lt;/a&gt; the &quot;trick today is not just to find the right target (that is, a person), as social networks such as LinkedIn and search tools can do, but to &lt;em&gt;enlist allies&lt;/em&gt; and manage the work to achieve a specific goal.&quot; (Emphasis mine.) Proximity used to reign supreme — where you lived, what school you went to, and whom your parents knew was more of a factor in what opportunities you had. Proximity is still one factor, but in the social era, the other four Ps of community end up growing in importance and power. Communities of &lt;em&gt;passion&lt;/em&gt; who share a common interest (photography, or food, or books) can inform new product lines. Communities of &lt;em&gt;purpose&lt;/em&gt; willingly share a common task to build something (like Wikipedia) together. Communities of &lt;em&gt;practice&lt;/em&gt;, who share a common career or field of business, will extend your offer if it extends their expertise (&lt;a href=&quot;http://blogs.hbr.org/cs/2012/02/social_means_freedom_for_bette.html&quot;&gt;like Intuit has with its accountant community&lt;/a&gt;). Communities of &lt;em&gt;providence&lt;/em&gt; allow people to discover connections with others (as in Google+) and thus enable the sharing of information, products, and ideas. &lt;/p&gt;
+
+&lt;p&gt;Just recently, I passed up an opportunity to serve on a Fortune 100 Board of Directors. The company has a well-known history of dysfunctional board dynamics and it became clear to me that there was little one person could do to change it. When a friend asked why I was still considering the opportunity, I answered, &quot;It would lend me legitimacy.&quot; When I heard those words come out of my mouth, I knew I had to turn it down. If I'd said yes, it would have been because of &quot;brand&quot; — because I'd want readers like you to see me with more esteem. But in truth, it wouldn't have meant I was doing more good work. &lt;/p&gt;
+
+&lt;p&gt;I've studied how actual value is created for over 10 years now, and what I know to be true is this: While what people think of us does matter, what matters much more is our ability to do and deliver. That's what makes the ultimate difference in the world. And that's what reputations are really built on. That's what will draw people to you. &lt;/p&gt;
+
+&lt;p&gt;Yes, we are in the middle of a vast sea change in which social can put the power of connection to work to solve meaningful problems. But in order to do that more meaningful work, we need to recognize what is holding us back. In a world of &quot;personal brand&quot; and &quot;leadership brand&quot; and &quot;personal reinvention&quot; and so forth, we should not forget: the real signal is the work itself, and the social signaling is just its echo. &lt;/p&gt;
+      
+   &lt;div class=&quot;feedflare&quot;&gt;
+&lt;a href=&quot;http://feeds.harvardbusiness.org/~ff/harvardbusiness?a=Fgt1eukS9Vs:niH-6V4amOk:yIl2AUoC8zA&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/harvardbusiness?d=yIl2AUoC8zA&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.harvardbusiness.org/~ff/harvardbusiness?a=Fgt1eukS9Vs:niH-6V4amOk:bcOpcFrp8Mo&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/harvardbusiness?d=bcOpcFrp8Mo&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/harvardbusiness/~4/Fgt1eukS9Vs&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-01T19:07:33+00:00</dc:date>
+	<dc:creator>Nilofer Merchant</dc:creator>
+</item>
+<item rdf:about="tag:blogger.com,1999:blog-11646261.post-1320494990943533048">
+	<title>OakLeaf Systems: Windows 8.1 Preview Causes Continuous Flickering When Viewing Some PBS Online Video Segments</title>
+	<link>http://oakleafblog.blogspot.com/2013/07/windows-81-preview-causes-continuous.html</link>
+	<content:encoded>I use my Surface Pro tablet to time-shift online PBS broadcast TV episodes by downloading them in full-screen mode and recording them in 1080i MPEG-4 H.264 format through a Mini DisplayPort-to-HDMI converter to a Hauppague Colossus video capture card on my Windows 7 development PC:     After upgrading the Surface Pro to Windows 8.1, I found some episodes, such as Borgen, Series 1, Episode 7 from</content:encoded>
+	<dc:date>2013-07-01T19:06:37+00:00</dc:date>
+	<dc:creator>Roger Jennings (--rj)</dc:creator>
+</item>
+<item rdf:about="tag:www.iq.harvard.edu,2013:/blog/netgov//9.1548">
+	<title>Complexity and Social Networks Blog: Monthly predictions of executive elections</title>
+	<link>http://www.iq.harvard.edu/blog/netgov/2013/07/monthly_predictions_of_executi_1.html</link>
+	<content:encoded>&lt;p&gt;Below are our first full set of predictions for upcoming executive elections.  If we are missing any qualifying elections (see above for criteria) please post as comment (or e-mail me).&lt;/p&gt;
+
+&lt;p&gt;Mali -- incumbent win -- 89.0% probability&lt;br /&gt;
+Mongolia -- incumbent win -- 99.1% probability&lt;br /&gt;
+Madagascar -- incumbent win -- 78.7% probability&lt;br /&gt;
+Zimbabwe -- incumbent win -- 95.5% probability&lt;br /&gt;
+Maldives -- incumbent win -- 95.5% probability&lt;br /&gt;
+Georgia -- incumbent win -- 64.7% probability&lt;br /&gt;
+Tunisia -- incumbent win -- 95.4% probability&lt;br /&gt;
+Azerbaijan -- incumbent win -- 99.6% probability&lt;br /&gt;
+Tajikistan -- incumbent win -- 98.7% probability&lt;br /&gt;
+Chile -- incumbent win -- 50.5% probability&lt;br /&gt;
+Honduras -- opposition win -- 59.8% probability&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Ref: C1, DM1, DP1&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T19:05:25+00:00</dc:date>
+	<dc:creator>David Lazer</dc:creator>
+</item>
+<item rdf:about="tag:www.iq.harvard.edu,2013:/blog/netgov//9.1547">
+	<title>Complexity and Social Networks Blog: Monthly predictions of executive elections</title>
+	<link>http://www.iq.harvard.edu/blog/netgov/2013/07/monthly_predictions_of_executi.html</link>
+	<content:encoded>&lt;p&gt;Below are our first full set of predictions for upcoming executive elections.  If we are missing any qualifying elections (see above for criteria) please post as comment (or e-mail me).&lt;/p&gt;
+
+&lt;p&gt;Mali -- incumbent win -- 89.0% probability&lt;br /&gt;
+Mongolia -- incumbent win -- 99.1% probability&lt;br /&gt;
+Madagascar -- incumbent win -- 78.7% probability&lt;br /&gt;
+Zimbabwe -- incumbent win -- 95.5% probability&lt;br /&gt;
+Maldives -- incumbent win -- 95.5% probability&lt;br /&gt;
+Georgia -- incumbent win -- 64.7% probability&lt;br /&gt;
+Tunisia -- incumbent win -- 95.4% probability&lt;br /&gt;
+Azerbaijan -- incumbent win -- 99.6% probability&lt;br /&gt;
+Tajikistan -- incumbent win -- 98.7% probability&lt;br /&gt;
+Chile -- incumbent win -- 50.5% probability&lt;br /&gt;
+Honduras -- opposition win -- 59.8% probability&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Ref: C1, DM1, DP1&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T19:05:21+00:00</dc:date>
+	<dc:creator>David Lazer</dc:creator>
+</item>
+<item rdf:about="http://blogs.adobe.com/jnack/?p=9514">
+	<title>John Nack on Adobe: No words</title>
+	<link>http://blogs.adobe.com/jnack/2013/07/no-words.html</link>
+	<content:encoded>&lt;p&gt;On the NY Times, Nick Bilton &lt;a href=&quot;http://bits.blogs.nytimes.com/2013/06/30/disruptions-social-media-images-form-a-new-language-online/?_r=0&quot;&gt;talks&lt;/a&gt; about photographs becoming a ubiquitous, disposable form of communication:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Photos, once slices of a moment in the past — sunsets, meetings with friends, the family vacation — are fast becoming an entirely new type of dialogue. The cutting-edge crowd is learning that communicating with a simple image, be it a picture of what’s for dinner or a street sign that slyly indicates to a friend, “Hey, I’m waiting for you,” is easier than bothering with words, even in a world of hyper-abbreviated Twitter posts and texts.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Apparently text messaging is in (slight) decline, while SnapChat (y’know, self-destructing junk shots for the kids) is reputedly &lt;a href=&quot;http://techcrunch.com/2013/06/22/source-snapchat-snaps-up-80m-from-ivp-at-a-800m-valuation/&quot;&gt;worth $800+ million&lt;/a&gt;. This is the part where Old Man Nack officially feels he has no idea what’s going on.&lt;/p&gt;
+&lt;p&gt;There’s got to be some great Orwell quote about losing the language to make sense of experiences, but, eh, who wants to &lt;em&gt;read&lt;/em&gt; all that?&lt;/p&gt;
+&lt;p&gt;Elsewhere Dave Pell &lt;a href=&quot;https://medium.com/click-the-shutter/d76bf316c4dc&quot;&gt;muses&lt;/a&gt; about how imaging can separate us from experiences:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;We’ve ceded many of our remembering duties (birthdays, schedules, phone numbers, directions) to a hard drive in the cloud. And to a large extent, we’ve now handed over our memories of experiences to digital cameras. [...]&lt;/p&gt;
+&lt;p&gt;We no longer take any time to create an internal memory of an event or an experience before seeing, filtering, and sharing a digital version of it. We remember the photo, not the moment.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;In a world of social media, we can all exist in a droll, above-it-all sugary crust (like Seinfeld &lt;a href=&quot;https://itunes.apple.com/us/album/cab-drivers/id5802123?i=5802083&quot;&gt;talking&lt;/a&gt; about how in a cab, everything on the other side of the plexiglass, no matter how dangerous, is amusing &amp;amp; unreal). It’s a good time to remember that Facebook likes, like &lt;a href=&quot;http://www.design21sdn.com/organizations/196/posts/5751&quot;&gt;design, won’t save the world&lt;/a&gt;…&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T19:05:01+00:00</dc:date>
+	<dc:creator>John Nack</dc:creator>
+</item>
+<item rdf:about="http://techcrunch.com/?p=841178">
+	<title>TechCrunch UK: Bebo's Founder Michael Birch Says He's Bought Back The Social Network For $1M, Plans To ‘Reinvent' It</title>
+	<link>http://techcrunch.com/2013/07/01/bebos-founder-michael-birch-says-hes-bought-back-the-social-network-for-1m-plans-to-reinvent-it/</link>
+	<content:encoded>&lt;img alt=&quot;bebo-logo&quot; class=&quot;attachment-tc-carousel-river-thumb wp-post-image&quot; height=&quot;70&quot; src=&quot;http://tctechcrunch2011.files.wordpress.com/2013/02/bebo-logo.jpeg?w=100&amp;amp;h=70&amp;amp;crop=1&quot; style=&quot;float: left; margin: 0 10px 7px 0;&quot; width=&quot;100&quot; /&gt;&lt;p&gt;Another turn in the twisted life of social network &lt;a href=&quot;http://www.bebo.com&quot; target=&quot;_blank&quot;&gt;Bebo&lt;/a&gt;, which has unfortunately gone in the direction of a downward spiral for much of the last couple of years: the site appears to have been bought back by its founder Michael Birch for $1 million. Birch originally sold the company to Aol (owners of TechCrunch) for some &lt;a href=&quot;http://techcrunch.com/2008/03/13/aol-buys-bebo-for-750-million/&quot;&gt;$850 million&lt;/a&gt; back in 2008, and has since been a part of the group that has tried to rescue Bebo after Aol offloaded it. Birch now says he wants to “re-invent” it:&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;We just bought Bebo back for $1m. Can we actually re-invent it? Who knows, but it will be fun trying…&lt;/p&gt;
+&lt;p&gt;— Michael Birch (@mickbirch) &lt;a href=&quot;https://twitter.com/mickbirch/statuses/351760999579258880&quot; target=&quot;_blank&quot;&gt;July 1, 2013&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;For a pretty tiny pricetag, this won’t be a case of “reinvent or die trying,” but it will be interesting to see how and if Birch can inject something new into the company, years after Bebo fell well behind the likes of Facebook and Twitter in the race among social media platforms.&lt;/p&gt;
+&lt;p&gt;The move comes about seven weeks after Bebo &lt;a href=&quot;http://techcrunch.com/2013/05/10/social-network-bebo-has-filed-a-voluntary-chapter-11-bankruptcy-petition/&quot;&gt;filed for Chapter 11 voluntary bankruptcy protection&lt;/a&gt;, at which point it was put under the receivership of the Burke Capital Corporation, which has been &lt;a href=&quot;http://www.burkecapital.net/BCC_BeboAuction.pdf&quot; target=&quot;_blank&quot;&gt;handling an auction&lt;/a&gt; of its assets.&lt;/p&gt;
+&lt;p&gt;Confusingly, prior to that Chapter 11 filing, the company had been jointly owned by Criterion Capital Corporation, as well as a consortium of investors that include Birch and his co-founder wife, Xochi. It appears that part of the issue has been that the group was unhappy with how that co-ownership arrangement was working, and so was intentionally trying to move it into a sell-off state, starting in &lt;a href=&quot;http://techcrunch.com/2013/02/06/bebo-shareholders-file-motion-to-remove-ceo-have-a-receiver-take-control-of-embattled-company/&quot;&gt;February of this year&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In other words, Birch’s strategy has been going to plan so far. But shareholder wrangling is one thing. Now comes the hard part: trying to figure out if there is any life left for Bebo in an overcrowded market.&lt;/p&gt;
+&lt;p&gt;We’re reaching out to Birch and other shareholders, as well as Burke Capital, and will update this post as we learn more.&lt;/p&gt;
+&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/841178/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;</content:encoded>
+	<dc:date>2013-07-01T19:01:41+00:00</dc:date>
+	<dc:creator>Ingrid Lunden</dc:creator>
+</item>
+<item rdf:about="http://techcrunch.com/?p=841047">
+	<title>TechCrunch UK: Fly Or Die: Form 1 3D Printer</title>
+	<link>http://techcrunch.com/2013/07/01/fly-or-die-form-1-3d-printer/</link>
+	<content:encoded>&lt;img alt=&quot;Screen Shot 2013-07-01 at 2.13.35 PM&quot; class=&quot;attachment-tc-carousel-river-thumb wp-post-image&quot; height=&quot;70&quot; src=&quot;http://tctechcrunch2011.files.wordpress.com/2013/07/screen-shot-2013-07-01-at-2-13-35-pm1.png?w=100&amp;amp;h=70&amp;amp;crop=1&quot; style=&quot;float: left; margin: 0 10px 7px 0;&quot; width=&quot;100&quot; /&gt;
+&lt;p&gt;Early leader in the 3D printing space Makerbot may have just been acquired for &lt;a href=&quot;http://techcrunch.com/2013/06/19/stratasys-acquiring-makerbot-combined-company-will-likely-dominate-3d-printing-industry/&quot;&gt;$400 million&lt;/a&gt;, but we still can’t forget about the &lt;a href=&quot;http://techcrunch.com/tag/form-1/&quot;&gt;Form 1&lt;/a&gt; 3D printer out of FormLabs.&lt;/p&gt;
+&lt;p&gt;It started as a Kickstarter project, which received 6x its &lt;a href=&quot;http://techcrunch.com/2012/09/27/3d-printer-form-1-gets-6x-its-100k-funding-goal-on-kickstarter-in-one-day/&quot;&gt;$100,000 goal in just one day&lt;/a&gt;, topping &lt;a href=&quot;http://techcrunch.com/2012/10/02/3d-printer-form-1-tops-1-4m-on-kickstarter-in-a-week/&quot;&gt;$1.4 million&lt;/a&gt; in one week. Since, we’ve had the chance to &lt;a href=&quot;http://techcrunch.com/2013/06/17/living-in-the-future-with-the-form-labs-form-1/&quot;&gt;review it&lt;/a&gt; and pit it against the Makerbot.&lt;/p&gt;
+&lt;p&gt;However, the two are quite different:&lt;/p&gt;
+&lt;p&gt;The Form 1 shines a laser onto a metal surface through a layer of resin. Using a process of photopolymerization, the slices are laid down one after the other creating a solid object that lifts out of the resin as it is built. Think of the Makerbot as a stalagmite maker — the material is laid down on a platform — while the Form 1 is a stalactite maker where the object hangs from the platform that slowly moves up.&lt;/p&gt;
+&lt;p&gt;They also have different price tags: The Makerbot &lt;a href=&quot;http://store.makerbot.com/replicator2.html&quot; target=&quot;_blank&quot;&gt;Replicator 2 costs $2,199&lt;/a&gt; where the Form 1 goes for &lt;a href=&quot;http://formlabs.com/cart&quot; target=&quot;_blank&quot;&gt;$3,299&lt;/a&gt;. However, Biggs found that the Form 1′s resin-based approach offered much more precision and a higher resolution result.&lt;/p&gt;
+&lt;p&gt;Two flys.&lt;/p&gt;
+&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/841047/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;</content:encoded>
+	<dc:date>2013-07-01T19:00:10+00:00</dc:date>
+	<dc:creator>Jordan Crook</dc:creator>
+</item>
+<item rdf:about="http://feeds.fastcompany.com/fastcodesign/1672919 at http://www.fastcodesign.com">
+	<title>Co.Design: Infographic: 64 Webcams Capture The Nuanced Colors Of Europe’s Sky</title>
+	<link>http://www.fastcodesign.com/1672919/infographic-64-webcams-capture-the-nuanced-colors-of-europes-sky</link>
+	<content:encoded>&lt;div class=&quot;field field-type-text field-field-custom-teaser&quot;&gt; &lt;div class=&quot;field-items&quot;&gt; &lt;div class=&quot;field-item odd&quot;&gt; &lt;p&gt;A beautiful book turns webcam images into incredible, watercolor-like prints of the subtly changing hues across Europe.&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;p&gt;The sky is blue, right? Except when it’s overcast. Or sunrise. Or sunset. Or night. Or…wait, is the sky really all that blue in the first place?&lt;/p&gt; &lt;figure class=&quot;inline-video inline&quot;&gt;&lt;/figure&gt; &lt;p&gt;It’s a question explored by &lt;a href=&quot;http://jedcarter.co.uk/blog/my-work-2/eyes-on-the-sky#more-475&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Eyes on the Sky&lt;/em&gt;&lt;/a&gt;, a bespoke book of incredible data visualization by&lt;a href=&quot;http://jedcarter.co.uk&quot; target=&quot;_blank&quot;&gt; Jed Carter&lt;/a&gt;, which documents sky color as captured by 64 webcams across Europe. Each page is a smeared snapshot of one hour of time, and the book explores a full week.&lt;/p&gt; &lt;p&gt;“My intention was just to give viewers a different viewpoint of something very familiar,” Carter tells Co.Design.&lt;/p&gt; &lt;figure class=&quot;inline-large inline&quot;&gt; &lt;img alt=&quot;&quot; src=&quot;http://www.fastcodesign.com/multisite_files/codesign/imagecache/inline-large/inline/2013/06/1672919-inline-sequence2.jpg&quot; /&gt; &lt;/figure&gt; &lt;p&gt;At first glance, the pages may seem to make no sense. In reality, what you’re really looking at is a highly regimented grid of webcams, each capturing just a little bit of their sky. The trick is that they’re blended through a diligently tweaked wave of algorithms to create the pleasing, gradient aesthetic. So while it looks like abstraction, &lt;em&gt;Eyes on the Sky&lt;/em&gt; is actually data-defined art.&lt;/p&gt; &lt;p&gt;“I think I just wanted to make something beautiful from something which can be seen as quite boring,” Carter confirms. “Everyone loves a good sunset but what about the rest of the time? In England especially the sky is often overcast, but there is a very subtle but definite variation in shades and hues of grey over the course of the day.”&lt;/p&gt; &lt;figure class=&quot;inline-large inline&quot;&gt; &lt;img alt=&quot;&quot; src=&quot;http://www.fastcodesign.com/multisite_files/codesign/imagecache/inline-large/inline/2013/06/1672919-inline-narrative.jpg&quot; /&gt; &lt;/figure&gt; &lt;p&gt;In this graphical framework, all those washed-out skies really do become a celebration of subtlety, and you realize that amidst countless shades of grey, there are actually inspiring bits of lavender. And what we know as that ubiquitous “blue” sky actually can range all the way from dirty denim to brilliant robin’s egg.&lt;/p&gt; &lt;p&gt;Sadly, Carter has no plans to publish more than one copy of the book--though he’s open to the opportunity, and prints, along with a web version, could be on the way.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://jedcarter.co.uk/blog/my-work-2/eyes-on-the-sky#more-475&quot; target=&quot;_blank&quot;&gt;See more here&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;[Hat tip: &lt;a href=&quot;http://www.creativeapplications.net/processing/eyes-on-the-sky-weather-as-data-paintings-by-jed-carter/?utm_source=feedburner&amp;amp;amp;utm_medium=feed&amp;amp;amp;utm_campaign=Feed%3A+creativeapplicationsnet+%28CreativeApplications.Net%29&quot; target=&quot;_blank&quot;&gt;Creative Applications&lt;/a&gt;]&lt;/p&gt;&lt;img border=&quot;0&quot; height=&quot;1&quot; src=&quot;http://fastcompany.com.feedsportal.com/c/34823/f/645624/s/2e0e66bb/mf.gif&quot; width=&quot;1&quot; /&gt;&lt;div class=&quot;mf-viral&quot;&gt;&lt;table border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td valign=&quot;middle&quot;&gt;&lt;a href=&quot;http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.fastcodesign.com%2F1672919%2Finfographic-64-webcams-capture-the-nuanced-colors-of-europes-sky&amp;amp;t=Infographic%3A+64+Webcams+Capture+The+Nuanced+Colors+Of+Europe%E2%80%99s+Sky&quot; target=&quot;_blank&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://res3.feedsportal.com/social/twitter.png&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.fastcodesign.com%2F1672919%2Finfographic-64-webcams-capture-the-nuanced-colors-of-europes-sky&amp;amp;t=Infographic%3A+64+Webcams+Capture+The+Nuanced+Colors+Of+Europe%E2%80%99s+Sky&quot; target=&quot;_blank&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://res3.feedsportal.com/social/facebook.png&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.fastcodesign.com%2F1672919%2Finfographic-64-webcams-capture-the-nuanced-colors-of-europes-sky&amp;amp;t=Infographic%3A+64+Webcams+Capture+The+Nuanced+Colors+Of+Europe%E2%80%99s+Sky&quot; target=&quot;_blank&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://res3.feedsportal.com/social/linkedin.png&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.fastcodesign.com%2F1672919%2Finfographic-64-webcams-capture-the-nuanced-colors-of-europes-sky&amp;amp;t=Infographic%3A+64+Webcams+Capture+The+Nuanced+Colors+Of+Europe%E2%80%99s+Sky&quot; target=&quot;_blank&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://res3.feedsportal.com/social/googleplus.png&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.fastcodesign.com%2F1672919%2Finfographic-64-webcams-capture-the-nuanced-colors-of-europes-sky&amp;amp;t=Infographic%3A+64+Webcams+Capture+The+Nuanced+Colors+Of+Europe%E2%80%99s+Sky&quot; target=&quot;_blank&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://res3.feedsportal.com/social/email.png&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign=&quot;middle&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://da.feedsportal.com/r/165666126742/u/49/f/645624/c/34823/s/2e0e66bb/kg/342/a2.htm&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://da.feedsportal.com/r/165666126742/u/49/f/645624/c/34823/s/2e0e66bb/kg/342/a2.img&quot; /&gt;&lt;/a&gt;&lt;img border=&quot;0&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/165666126742/u/49/f/645624/c/34823/s/2e0e66bb/kg/342/a2t.img&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-01T19:00:00+00:00</dc:date>
+	<dc:creator>Mark Wilson</dc:creator>
+</item>
+<item rdf:about="http://gigaom.com/?p=663181">
+	<title>jkOnTheRun: Passing 100M users, Skype for Android now looks more like Windows Phone</title>
+	<link>http://gigaom.com/2013/07/01/passing-100m-users-skype-for-android-now-looks-more-like-windows-phone/</link>
+	<content:encoded>&lt;p&gt;If you don’t look closely, you just might confuse an Android handset for one running Windows Phone thanks to Skype. The Microsoft-owned company announced &lt;a href=&quot;http://blogs.skype.com/2013/07/01/skype-passes-100m-android-installs-and-launches-redesigned-4-0/&quot;&gt;both a subscriber milestone and new version of software for Android devices on Monday&lt;/a&gt;. More than 100 million Android owners use Skype software, which has been rebuilt from the ground up and is &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.skype.raider&amp;amp;feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5za3lwZS5yYWlkZXIiXQ..&quot;&gt;now available in the Google Play Store&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;After installing the latest update on your Android, Skype should perform faster and be easier to use for quick conversations; both with text chats and video calls. And if you’ve never seen the Metro user interface of Windows Phone, the all new Skype client will surprise you because that’s what it looks like now.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://gigaom2.files.wordpress.com/2013/07/android-skype-image.jpg&quot;&gt;&lt;img alt=&quot;Skype on Android&quot; class=&quot;aligncenter  wp-image-663185&quot; height=&quot;356&quot; src=&quot;http://gigaom2.files.wordpress.com/2013/07/android-skype-image.jpg?w=632&amp;amp;h=356&quot; width=&quot;632&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Instead of tapping around different screens for functionality — common in most Android apps — you swipe left and right in the new Skype client, much as you would for any Windows Phone app. I find it to be a refreshing user interface when using Windows 8 or Windows Phone, but we’ll see what Android device owners think after they upgrade their Skype client.&lt;/p&gt;
+&lt;p&gt;From a branding and user experience standpoint, I think this is a good move for both Skype and Microsoft. Skype is used as a service across multiple platforms and many devices: Having a different look for each can be frustrating when controls or settings are found in different places on different devices. Now, when will Skype do the same for its other clients? Perhaps iOS will be next to be “Skypified” with Microsoft’s Metro interface.&lt;/p&gt;
+&lt;span class=&quot;embed-youtube&quot; style=&quot;text-align: center; display: block;&quot;&gt;&lt;/span&gt;
+&lt;br /&gt;  &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;http://stats.wordpress.com/b.gif?host=gigaom.com&amp;amp;blog=14960843&amp;amp;post=663181&amp;amp;subd=gigaom2&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;&lt;p&gt;&lt;a href=&quot;http://pubads.g.doubleclick.net/gampad/jump?iu=/1008864/GigaOM_RSS_300x250&amp;amp;sz=300x250&amp;amp;c=134045&quot;&gt;&lt;img src=&quot;http://pubads.g.doubleclick.net/gampad/ad?iu=/1008864/GigaOM_RSS_300x250&amp;amp;sz=300x250&amp;amp;c=134045&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Related research and analysis from GigaOM Pro:&lt;/strong&gt;&lt;br /&gt;Subscriber content. &lt;a href=&quot;http://pro.gigaom.com/?utm_source=mobile&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663181+passing-100m-users-skype-for-android-now-looks-more-like-windows-phone&amp;amp;utm_content=kevintofel&quot;&gt;Sign up for a free trial&lt;/a&gt;.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://pro.gigaom.com/2012/12/the-converged-mobile-messaging-market-analysis-and-forecast/?utm_source=mobile&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663181+passing-100m-users-skype-for-android-now-looks-more-like-windows-phone&amp;amp;utm_content=kevintofel&quot;&gt;Forecast: the converged mobile messaging market&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://pro.gigaom.com/2012/04/survey-enterprise-mobility-perceptions-among-it-decision-makers/?utm_source=mobile&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663181+passing-100m-users-skype-for-android-now-looks-more-like-windows-phone&amp;amp;utm_content=kevintofel&quot;&gt;Survey: the next wave of enterprise mobility&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://pro.gigaom.com/2012/02/ces-2012-a-recap-and-analysis/?utm_source=mobile&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663181+passing-100m-users-skype-for-android-now-looks-more-like-windows-phone&amp;amp;utm_content=kevintofel&quot;&gt;CES 2012: a recap and analysis&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+	<dc:date>2013-07-01T18:52:05+00:00</dc:date>
+	<dc:creator>Kevin C. Tofel</dc:creator>
+</item>
+<item rdf:about="http://www.intomobile.com/?p=437697">
+	<title>IntoMobile: Sony Honami To Ship With 20 Megapixel Camera And Tweaked User Interface?</title>
+	<link>http://feedproxy.google.com/~r/IntoMobile/~3/o0iJ2FhykOE/</link>
+	<content:encoded>&lt;img alt=&quot;Honami&quot; class=&quot;attachment-main-image wp-post-image&quot; height=&quot;366&quot; src=&quot;http://images.intomobile.com/wp-content/uploads/2013/07/Honami.png&quot; title=&quot;Honami&quot; width=&quot;650&quot; /&gt;&lt;p&gt;A system dump for the upcoming&lt;a href=&quot;http://www.intomobile.com/2013/06/28/sony-xperia-i1-honami-caught-wild/&quot;&gt; Sony Honami&lt;/a&gt; has leaked out to the world, and it looks like the device is going to pack quite a punch in terms of hardware and new features. If Sony is indeed prepping a ‘Cyber-shot’ Android handset, there’s a great chance that it will be this device.&lt;/p&gt;
+&lt;p&gt;It looks like the Honami may be packing a 20 megapixel camera, making it quite a beast of a camera phone. Not only that, but the Honami may also support 4K video recording and handfuls of new camera features along for the ride. Like many upcoming flagship devices, the Honami may also ship with a Qualcomm Snapdragon 800 CPU.&lt;/p&gt;
+&lt;p&gt;If the possibility of a 20 megapixel camera and Snapdragon 800 aren’t enough to interest you, then the tweaked user interface and new features made add a little more allure to the Honami for you. We can expect Music Unlimited integration in the Walkman music application, a new augmented reality and visual search applications.&lt;/p&gt;
+&lt;p&gt;The user interface itself hasn’t gone through too many dramatic changes, which is a good thing if you ask us. Instead, new tweaks have been sprinkled in, adding better functionality to one of the best custom user interfaces for Android.&lt;/p&gt;
+&lt;p&gt;Be sure to hit up the link below for several more screenshots of the user interface and new applications.&lt;/p&gt;
+&lt;p&gt;So what do you say? Do you think this could be the &lt;a href=&quot;http://www.intomobile.com/2013/03/29/sony-developing-cybershot-camera-walkman-music-smartphones/&quot;&gt;Sony Cyber-shot Android phone we’ve been waiting for&lt;/a&gt;? Sound off in the comments below!&lt;/p&gt;
+&lt;p&gt;[Via:&lt;a href=&quot;http://www.xperiablog.net/2013/06/30/sony-honami-system-dump-reveals-new-ui-and-imaging-specs-20mp-camera-4k-video/&quot;&gt; XperiaBlog&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://www.intomobile.com/2013/07/01/sony-honami-ship-20-megapixel-camera-and-tweaked-user-interface/&quot;&gt;Sony Honami To Ship With 20 Megapixel Camera And Tweaked User Interface?&lt;/a&gt; appeared first on &lt;a href=&quot;http://www.intomobile.com&quot;&gt;IntoMobile&lt;/a&gt;.&lt;/p&gt; &lt;p style=&quot;padding: 10px; background: #ddd; border: 1px solid #ccc; clear: both;&quot;&gt;
+       &lt;a href=&quot;http://www.intomobile.com/2013/07/01/sony-honami-ship-20-megapixel-camera-and-tweaked-user-interface/&quot; target=&quot;_blank&quot;&gt;Sony Honami To Ship With 20 Megapixel Camera And Tweaked User Interface?&lt;/a&gt; originally appeared on &lt;a href=&quot;http://www.intomobile.com&quot; target=&quot;_blank&quot;&gt;IntoMobile.com&lt;/a&gt; on 2013-07-01T18:39:33Z. &lt;span style=&quot;color: #ddd;&quot;&gt;FV1gMYsz9b5j&lt;/span&gt;
+&lt;/p&gt;&lt;div class=&quot;feedflare&quot;&gt;
+&lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=o0iJ2FhykOE:V4dijdvAowc:yIl2AUoC8zA&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?d=yIl2AUoC8zA&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=o0iJ2FhykOE:V4dijdvAowc:dnMXMwOfBR0&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?d=dnMXMwOfBR0&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=o0iJ2FhykOE:V4dijdvAowc:F7zBnMyn0Lo&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?i=o0iJ2FhykOE:V4dijdvAowc:F7zBnMyn0Lo&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=o0iJ2FhykOE:V4dijdvAowc:gIN9vFwOqvQ&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?i=o0iJ2FhykOE:V4dijdvAowc:gIN9vFwOqvQ&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=o0iJ2FhykOE:V4dijdvAowc:qj6IDK7rITs&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?d=qj6IDK7rITs&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/IntoMobile?a=o0iJ2FhykOE:V4dijdvAowc:V_sGLiPBpWU&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/IntoMobile?i=o0iJ2FhykOE:V4dijdvAowc:V_sGLiPBpWU&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/IntoMobile/~4/o0iJ2FhykOE&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-01T18:48:47+00:00</dc:date>
+	<dc:creator>Blake Stimac</dc:creator>
+</item>
+<item rdf:about="tag:blogger.com,1999:blog-11646261.post-4986524373972535497">
+	<title>OakLeaf Systems: Windows 8.1 Preview Disables the Pinnacle PCTV 80e USB Mini Stick TV Tuner</title>
+	<link>http://oakleafblog.blogspot.com/2013/07/windows-81-upgrade-preview-disables.html</link>
+	<content:encoded>I currently use the Pinnacle PCTV 80e USB stick ATSC TV tuner with Windows Media Center or the device’s supplied TV Center software under Windows 7 to time-shift off-air content from California PBS stations. The PCTV 80e device, which is now supported by Hauppauge, is available from a variety of sources at prices ranging from about US$30 (Compuvest, refurbished Ultimate version) to $85 (Amazon,</content:encoded>
+	<dc:date>2013-07-01T18:46:29+00:00</dc:date>
+	<dc:creator>Roger Jennings (--rj)</dc:creator>
+</item>
+<item rdf:about="tag:www.antipope.org,2013:/charlie/blog-static//1.3628">
+	<title>Charlie's Diary: Book Launch: Neptune's Brood, Edinburgh, Thursday</title>
+	<link>http://www.antipope.org/charlie/blog-static/2013/07/book-launch-neptunes-brood-edi.html</link>
+	<content:encoded>&lt;p&gt;I'm going to be doing a reading from &quot;Neptune's Brood&quot;, and a signing and Q&amp;amp;A, this Thursday in Edinburgh at 6pm. The venue is Waterstones' bookshop, at the west end of Princes Street. It's ticketed (£3) — I believe there may be wine, and there'll certainly be me plus friends, continuing to a pub afterwards. &lt;a href=&quot;http://www.waterstones.com/waterstonesweb/displayDetailEvent.do?searchType=1&amp;amp;author=Charles|Stross&quot;&gt;You can buy tickets online here&lt;/a&gt;, or from the counter in the shop.&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T18:45:13+00:00</dc:date>
+	<dc:creator>Charlie Stross</dc:creator>
+</item>
+<item rdf:about="tag:daringfireball.net,2013:/linked//6.27891">
+	<title>Daring Fireball: ‘Close Encounters of the Seventh Kind’</title>
+	<link>http://www.muleradio.net/thetalkshow/46/</link>
+	<content:encoded>&lt;p&gt;New episode of my podcast, The Talk Show, with special guest Craig Hockenberry. We talk in detail regarding the design changes in iOS 7, particularly the similarity to graphic design and color palette trends in decades past. Also: tagging, as seen in Mavericks, as the future of file sharing and organization amongst sandboxed applications.&lt;/p&gt;
+
+&lt;p&gt;Brought to you by three excellent sponsors:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://filetransporter.com/talk&quot;&gt;Transporter&lt;/a&gt;: Peer-to-Peer Storage Solution like Dropbox, except you remain in complete control.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://squarespace.com/thetalkshow&quot;&gt;Squarespace&lt;/a&gt;: Everything you need to build exceptional websites.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.igloosoftware.com/thetalkshow&quot;&gt;Igloo&lt;/a&gt;: An intranet you’ll actually like.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div&gt;
+&lt;a href=&quot;http://daringfireball.net/linked/2013/07/01/the-talk-show-046&quot; title=&quot;Permanent link to ‘‘Close Encounters of the Seventh Kind’’&quot;&gt; ★ &lt;/a&gt;
+&lt;/div&gt;</content:encoded>
+	<dc:date>2013-07-01T18:42:43+00:00</dc:date>
+	<dc:creator>John Gruber</dc:creator>
+</item>
+<item rdf:about="http://www.thelineofbestfit.com/?p=129263">
+	<title>The Line Of Best Fit: Listen: Twin Peaks – Irene</title>
+	<link>http://www.thelineofbestfit.com/new-music/blog/listen-twin-peaks-irene-129263?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=listen-twin-peaks-irene</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;twin-peaks-band&quot; class=&quot;aligncenter size-full wp-image-129270&quot; height=&quot;500&quot; src=&quot;http://media.thelineofbestfit.com/wp-content/media/2013/07/twin-peaks-band.jpg&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;strong&gt;&lt;a href=&quot;http://www.thelineofbestfit.com/artist/Twin Peaks&quot;&gt;Twin Peaks&lt;/a&gt;&lt;/strong&gt; are a Chicago quartet of 19-year-old lo-fi indie poppers, clearly influenced by David Lynch and his groundbreaking and influential surreal-drama of the same name.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Whether they have the director’s blessing or not, the band have been putting out music under the TV series’ name recently and the latest to surface on the world wide web is a dreamy pop sizzler called ‘Irene’, which would have fit in perfectly on the show’s soundtrack had it been released 30 years ago.&lt;/p&gt;
+&lt;p&gt;The track has an essence of garage rock and features unsettled fuzzy vocals over a catchy melody. Beautifully calming and dazed; the perfect tune to stargaze to this summer.&lt;/p&gt;
+&lt;p&gt;It’s the second song the group of five has unveiled from their upcoming debut, &lt;em&gt;Sunken&lt;/em&gt;, which is due out in America on 9 July from &lt;a class=&quot;ext-link&quot; href=&quot;http://www.autumntone.com/&quot; rel=&quot;external&quot; target=&quot;_blank&quot;&gt;Autumn Tone Records&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T18:41:58+00:00</dc:date>
+	<dc:creator>Natalie Archer</dc:creator>
+</item>
+<item rdf:about="http://bgr.com/?p=775000">
+	<title>The Boy Genius Report: Windows 8 now finally more popular than Vista</title>
+	<link>http://feedproxy.google.com/~r/TheBoyGeniusReport/~3/t-8eNcNzUrA/</link>
+	<content:encoded>&lt;center&gt;&lt;a class=&quot;bgr-rss-featured-image bgr-rss-test-class&quot; href=&quot;http://bgr.com/2013/07/01/windows-8-market-share/&quot;&gt;&lt;img alt=&quot;Windows 8 Market Share&quot; class=&quot;attachment-feed_normal wp-post-image&quot; height=&quot;343&quot; src=&quot;http://boygeniusreport.files.wordpress.com/2013/05/windows-8-1-start-menu.png?w=610&quot; title=&quot;Windows 8 Market Share&quot; width=&quot;610&quot; /&gt;&lt;/a&gt;&lt;/center&gt;Slowly but surely, &lt;a href=&quot;http://bgr.com/tag/windows-8&quot;&gt;Windows 8&lt;/a&gt; is making its mark. The &lt;a href=&quot;http://www.netmarketshare.com/operating-system-market-share.aspx?qprid=10&amp;amp;qpcustomd=0&quot;&gt;latest numbers from Net Applications show&lt;/a&gt; that Windows 8 is now being used on 5.1% of all desktop computers, making it the third-most used desktop OS in the world behind Windows 7 (44.4%) and Windows XP (37.2%). More importantly, Net Applications says that Windows 8 has &lt;a href=&quot;http://bgr.com/2012/04/10/windows-vista-enters-extended-support-xp-support-ends-in-2014/&quot;&gt;at last surpassed Vista&lt;/a&gt;, which now has a market share of just 4.6%. Given that &lt;a href=&quot;http://bgr.com/tag/microsoft&quot;&gt;Microsoft&lt;/a&gt; &lt;a href=&quot;http://bgr.com/2013/06/11/hp-pc-sales-projection/&quot;&gt;plans to end support for Windows XP next year&lt;/a&gt;, we'll likely see Windows 8 adoption skyrocket in 2014 when companies move to upgrade their machines to newer operating systems.&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/TheBoyGeniusReport/~4/t-8eNcNzUrA&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-01T18:40:37+00:00</dc:date>
+	<dc:creator>Brad Reed</dc:creator>
+</item>
+<item rdf:about="http://www.talkingbiznews.com/?p=44889">
+	<title>Talking Biz News: It’s pay raise day for Dow Jones business journalists</title>
+	<link>http://www.talkingbiznews.com/1/its-pay-raise-day-for-dow-jones-business-journalists/</link>
+	<content:encoded>The following was sent out by the Independent Association of Publishers’ Employees/The Newspaper Guild to its Dow Jones &amp;amp; Co. members, which includes reporters at The Wall Street Journal, Dow Jones Newswires, Marketwatch.com and Barron’s: Today — Monday, July 1 — is the effective date for wage increases provided by our IAPE contract. Eligible employees</content:encoded>
+	<dc:date>2013-07-01T18:39:13+00:00</dc:date>
+	<dc:creator>Chris Roush</dc:creator>
+</item>
+<item rdf:about="http://www.thelineofbestfit.com/?p=129267">
+	<title>The Line Of Best Fit: Watch: Sailor &amp; I – Tough Love</title>
+	<link>http://www.thelineofbestfit.com/videos/music-videos/watch-sailor-i-tough-love-129267?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=watch-sailor-i-tough-love</link>
+	<content:encoded>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We premiered the emotionally weighted ballad by Stockholm’s &lt;strong&gt;&lt;a href=&quot;http://www.thelineofbestfit.com/artist/Sailor &amp;amp; I&quot;&gt;Sailor &amp;amp; I&lt;/a&gt;&lt;/strong&gt; last month and three weeks on, to coin a phrase from the song itself “it’s not getting any easier” to rid ourselves from its brooding sense of love gone wrong.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Now accompanied by an equally affecting video, the &lt;a class=&quot;ext-link&quot; href=&quot;http://www.black-butter.co.uk/&quot; rel=&quot;external&quot; target=&quot;_blank&quot;&gt;Black Butter&lt;/a&gt; signees cement their position as creators of one of the most moving songs of the year. Flawless, in every sense of the word.&lt;/p&gt;
+&lt;p&gt;‘Tough Love’ is released next Monday, 7 July.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T18:38:00+00:00</dc:date>
+	<dc:creator>Rich Thane</dc:creator>
+</item>
+<item rdf:about="tag:www.arcticstartup.com,2005:WpBlogPost/41969">
+	<title>ArcticStartup: Swedish Entrepreneur Finds The Forest His Office</title>
+	<link>http://www.arcticstartup.com/2013/07/01/swedish-entrepreneur-finds-the-forest-his-office</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;alignleft size-full wp-image-41989&quot; height=&quot;326&quot; src=&quot;http://wp.arcticstartup.com/wp-content/uploads/2013/07/20130520_111448-e1372692828217.jpg&quot; title=&quot;20130520_111448&quot; width=&quot;580&quot; /&gt;The digital entrepreneurs we cover just need a laptop, electricity, internet, and a roof over their head. You hear about some people taking extended working vacations, maybe going to Thailand for a little bit to get some sun and some work done, but &lt;a href=&quot;http://thomasbacklund.com/&quot;&gt;Thomas Backlund&lt;/a&gt;, a Swedish entrepreneur, has taken to the Swedish forest to work on his project, staying in a tent and connected to the rest of the world by 3G and portable solar panels. &lt;/p&gt;
+
+&lt;p&gt;The world learned about his adventure about a month ago when he won the random chance to &lt;a href=&quot;http://thelistserve.com/&quot;&gt;write something to The Listserve&lt;/a&gt;, where one person a day gets the chance to write something to it's 23,000+ subscribers. &lt;a href=&quot;http://thelistservearchive.com/2013/06/06.html&quot;&gt;There he wrote&lt;/a&gt;,
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;&lt;blockquote&gt;I have no apartment, I have no job and I have no income.
+&lt;br /&gt;Still I'm exactly where I should be. I'm on my path. My gut feeling lets me know that.&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;I'm not exiting to a normal life until my startup has taken off. This is my big adventure. I'm not coming back empty handed.&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Backlund is working on his startup called &lt;a href=&quot;http://blockie.io&quot;&gt;Blockie.io&lt;/a&gt;, a platform for coders that allows you to create tailored scalible back-ends easily. Rather than coding the backends, programmers can combine blocks of functionality. The back-ends will typically have a REST interface, according to his blogpost.&lt;/p&gt;
+
+&lt;p&gt;Aside from reliable electricity, the reason why most entrepreneurs don't live alone in the woods is because it pays to be in a city to have meetings and bump into people at events. But by doing something so radically different, and by the grace of ListServe's attention, Backlund says on his blog he's come into contact with good new connections for his project. &lt;/p&gt;
+
+&lt;p&gt;His blog isn't updated so regularly, and there's enough mentioning of food poisoning that you almost worry about an Into The Wild situation. But I get it. With so much freedom afforded to you, why not take off to the forest? &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Top image taken from &lt;a href=&quot;http://thomasbacklund.com/&quot;&gt;Backlund's blog&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T18:35:46+00:00</dc:date>
+	<dc:creator>Greg Anderson</dc:creator>
+</item>
+<item rdf:about="http://searchengineland.com/?p=165499">
+	<title>Search Engine Land: News About Search Engines &amp; Search Marketing: New Bing Search By License Feature Filters Images Based On Usage Rights</title>
+	<link>http://feeds.searchengineland.com/~r/searchengineland/~3/RM7XklG8hYE/bing-image-search-now-lets-users-search-by-license-165499</link>
+	<content:encoded>Bing announced a new “Search by License” feature today that filters images based on usage rights. The new feature filters images with a Creative Commons license, helping users avoid the hassle of digging through image licensing details to find available photos. The “Search by...&lt;br /&gt;
+&lt;br /&gt;
+Please visit Search Engine Land for the full article.&lt;div class=&quot;feedflare&quot;&gt;
+&lt;a href=&quot;http://feeds.searchengineland.com/~ff/searchengineland?a=RM7XklG8hYE:jtJpMm-eS4k:yIl2AUoC8zA&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/searchengineland?d=yIl2AUoC8zA&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.searchengineland.com/~ff/searchengineland?a=RM7XklG8hYE:jtJpMm-eS4k:-BTjWOF_DHI&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/searchengineland?i=RM7XklG8hYE:jtJpMm-eS4k:-BTjWOF_DHI&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.searchengineland.com/~ff/searchengineland?a=RM7XklG8hYE:jtJpMm-eS4k:F7zBnMyn0Lo&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/searchengineland?i=RM7XklG8hYE:jtJpMm-eS4k:F7zBnMyn0Lo&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.searchengineland.com/~ff/searchengineland?a=RM7XklG8hYE:jtJpMm-eS4k:7Q72WNTAKBA&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/searchengineland?d=7Q72WNTAKBA&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.searchengineland.com/~ff/searchengineland?a=RM7XklG8hYE:jtJpMm-eS4k:V_sGLiPBpWU&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/searchengineland?i=RM7XklG8hYE:jtJpMm-eS4k:V_sGLiPBpWU&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.searchengineland.com/~ff/searchengineland?a=RM7XklG8hYE:jtJpMm-eS4k:qj6IDK7rITs&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/searchengineland?d=qj6IDK7rITs&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.searchengineland.com/~ff/searchengineland?a=RM7XklG8hYE:jtJpMm-eS4k:V-t1I-SPZMU&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/searchengineland?d=V-t1I-SPZMU&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/searchengineland/~4/RM7XklG8hYE&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-01T18:35:38+00:00</dc:date>
+	<dc:creator>Amy Gesenhues</dc:creator>
+</item>
+<item rdf:about="http://www.thelineofbestfit.com/?p=129204">
+	<title>The Line Of Best Fit: Grimes, Four Tet, The xx &amp; more to play Young Turks NYE party in Mexico</title>
+	<link>http://www.thelineofbestfit.com/news/latest-news/grimes-four-tet-the-xx-more-to-play-young-turks-nye-party-in-mexico-129204?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=grimes-four-tet-the-xx-more-to-play-young-turks-nye-party-in-mexico</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;grimes-oblivion&quot; class=&quot;aligncenter size-full wp-image-124105&quot; height=&quot;333&quot; src=&quot;http://media.thelineofbestfit.com/wp-content/media/2013/04/grimes-oblivion.jpg&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;ext-link&quot; href=&quot;http://theyoungturks.co.uk/&quot; rel=&quot;external&quot; target=&quot;_blank&quot;&gt;Young Turks Records&lt;/a&gt;, the independent British label home to &lt;a class=&quot;local-link&quot; href=&quot;http://www.thelineofbestfit.com/artists/the-xx-108309&quot; target=&quot;_blank&quot;&gt;the xx&lt;/a&gt; and &lt;a class=&quot;local-link&quot; href=&quot;http://www.thelineofbestfit.com/artists/sbtrkt-107227&quot; target=&quot;_blank&quot;&gt;SBTRKT&lt;/a&gt;, has announced the line-up for its New Year’s Eve party, set to be held in the ancient Mayan ruins of Tulum in Mexico.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.thelineofbestfit.com/artist/The xx&quot;&gt;The xx&lt;/a&gt; themselves are scheduled to feature, as are &lt;a class=&quot;local-link&quot; href=&quot;http://www.thelineofbestfit.com/artists/grimes-105031&quot; target=&quot;_blank&quot;&gt;Grimes&lt;/a&gt;, &lt;a class=&quot;local-link&quot; href=&quot;http://www.thelineofbestfit.com/artist/Four%20Tet&quot; target=&quot;_blank&quot;&gt;Four Tet&lt;/a&gt;, &lt;a class=&quot;local-link&quot; href=&quot;http://www.thelineofbestfit.com/artists/john-talabot-105516&quot; target=&quot;_blank&quot;&gt;John Talabot&lt;/a&gt;, &lt;a class=&quot;local-link&quot; href=&quot;http://www.thelineofbestfit.com/new-music/song-of-the-day/listen-koreless-sun-123749&quot; target=&quot;_blank&quot;&gt;Koreless&lt;/a&gt;, &lt;a href=&quot;http://www.thelineofbestfit.com/artist/Tasker&quot;&gt;Tasker&lt;/a&gt;, and many more.&lt;/p&gt;
+&lt;p&gt;The ambient-noir trio recently curated &lt;a class=&quot;local-link&quot; href=&quot;http://www.thelineofbestfit.com/news/latest-news/jon-hopkins-koreless-london-grammar-more-added-to-the-xxs-night-day-fest-126849&quot; target=&quot;_blank&quot;&gt;their own mini festival&lt;/a&gt; last month and invited Koreless along for the ride, while &lt;a class=&quot;local-link&quot; href=&quot;http://www.thelineofbestfit.com/artists/jamie-xx-105381&quot; target=&quot;_blank&quot;&gt;Jamie xx&lt;/a&gt; and Talabot got together for a &lt;a class=&quot;local-link&quot; href=&quot;http://www.thelineofbestfit.com/news/latest-news/jamie-xx-and-john-talabot-stream-3-hour-live-set-121655&quot; target=&quot;_blank&quot;&gt;three hour set&lt;/a&gt; in Miami earlier this year. Four Tet has busied himself mixing Syrian star &lt;a class=&quot;local-link&quot; href=&quot;http://www.thelineofbestfit.com/artist/Omar%C2%A0Souleyman&quot; target=&quot;_blank&quot;&gt;Omar Souleyman&lt;/a&gt;‘s debut &lt;a class=&quot;local-link&quot; href=&quot;http://www.thelineofbestfit.com/news/latest-news/four-tet-producing-new-omar-souleyman-album-126916&quot; target=&quot;_blank&quot;&gt;studio album&lt;/a&gt;, and also found time to be the subject of &lt;a class=&quot;local-link&quot; href=&quot;http://www.thelineofbestfit.com/news/latest-news/is-burial-actually-four-tet-hoax-resurfaces-online-128103&quot; target=&quot;_blank&quot;&gt;hoax claims&lt;/a&gt; about the identity of &lt;a class=&quot;local-link&quot; href=&quot;http://www.thelineofbestfit.com/artists/burial-103848&quot; target=&quot;_blank&quot;&gt;Burial&lt;/a&gt;.&lt;a class=&quot;local-link&quot; href=&quot;http://www.thelineofbestfit.com/news/latest-news/four-tet-producing-new-omar-souleyman-album-126916&quot; target=&quot;_blank&quot;&gt;&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;ext-link&quot; href=&quot;http://pitchfork.com/news/51381-the-xx-grimes-four-tet-chairlift-john-talabot-to-play-young-turks-new-years-eve-party-in-mexico/&quot; rel=&quot;external&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Pitchfork&lt;/em&gt;&lt;/a&gt; reported that the label will also be organising a number of side-events, allowing Talabot, Tet, Tasker and Jamie to demonstrate their individual DJing talents.&lt;/p&gt;
+&lt;p&gt;Tulum is a port city on the eastern coast of Mexico, and was once the site of a walled Mayan city that fell to the Spanish &lt;em&gt;conquistadors&lt;/em&gt; in the late 16th century.&lt;/p&gt;
+&lt;p&gt;See the poster for the event below:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;yount-turks-mexico-nye&quot; class=&quot;aligncenter size-medium wp-image-129262&quot; height=&quot;709&quot; src=&quot;http://media.thelineofbestfit.com/wp-content/media/2013/07/yount_turks_mexico_nye-500x709.jpg&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;[Image via &lt;a class=&quot;ext-link&quot; href=&quot;http://pitchfork.com/news/51381-the-xx-grimes-four-tet-chairlift-john-talabot-to-play-young-turks-new-years-eve-party-in-mexico/&quot; rel=&quot;external&quot; target=&quot;_blank&quot;&gt;Pitchfork&lt;/a&gt;]&lt;/em&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T18:33:01+00:00</dc:date>
+	<dc:creator>James Killin</dc:creator>
+</item>
+<item rdf:about="tag:typepad.com,2003:post-6a00d83451b36c69e201901e10c5bf970b">
+	<title>hypebot: NEWS BRIEF:  Stereosonic Sold For $75M, Court Fines Tom  Scholz, Xbox Music Launches, Slow Hits &amp; More</title>
+	<link>http://feedproxy.google.com/~r/typepad/DqMf/~3/BhCWO9BdCvM/am-news-brief-xbox-music-launches-on-web-slow-hit-movement-piracy-filters-itunes-radio-more.html</link>
+	<content:encoded>&lt;div&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 13pt;&quot;&gt;&lt;strong&gt;MONDAY 7.01.2013&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;M&lt;span style=&quot;font-size: 11pt;&quot;&gt;&lt;span style=&quot;font-family: tahoma,arial,helvetica,sans-serif;&quot;&gt;usic Business News &amp;amp; Views From Around The Web&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;&lt;span style=&quot;font-family: tahoma,arial,helvetica,sans-serif;&quot;&gt;
+&lt;a class=&quot;asset-img-link&quot; href=&quot;http://www.hypebot.com/.a/6a00d83451b36c69e2019103d0cef2970c-popup&quot;&gt;
+&lt;/a&gt;&lt;a class=&quot;asset-img-link&quot; href=&quot;http://www.hypebot.com/.a/6a00d83451b36c69e201901decb1d6970b-popup&quot;&gt;
+&lt;/a&gt;&lt;a class=&quot;asset-img-link&quot; href=&quot;http://www.hypebot.com/.a/6a00d83451b36c69e201901df6ed1d970b-popup&quot;&gt;
+&lt;/a&gt;&lt;a class=&quot;asset-img-link&quot; href=&quot;http://www.hypebot.com/.a/6a00d83451b36c69e201910406bb20970c-popup&quot;&gt;&lt;img alt=&quot;image from cdn2.sbnation.com&quot; class=&quot;asset  asset-image at-xid-6a00d83451b36c69e201910406bb20970c&quot; src=&quot;http://www.hypebot.com/.a/6a00d83451b36c69e201910406bb20970c-200wi&quot; style=&quot;width: 200px; display: block; margin-left: auto; margin-right: auto;&quot; title=&quot;image from cdn2.sbnation.com&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;img alt=&quot;Hypebot News Brief&quot; class=&quot;asset  asset-image at-xid-6a00d83451b36c69e2016767ad21d8970b&quot; src=&quot;http://www.hypebot.com/.a/6a00d83451b36c69e2016767ad21d8970b-300wi&quot; style=&quot;width: 300px; display: block; margin-left: auto; margin-right: auto;&quot; title=&quot;Hypebot News Brief&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://www.hypebot.com/hypebot/news.html&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;&lt;strong&gt;CLICK HERE&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;&lt;strong&gt;Updated Continuously Under Hypebot's &lt;a href=&quot;http://www.hypebot.com/hypebot/news.html&quot; target=&quot;_blank&quot;&gt;More News&lt;/a&gt; Tab Above&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;feedflare&quot;&gt;
+&lt;a href=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?a=BhCWO9BdCvM:frY8VEfx1Hw:yIl2AUoC8zA&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?d=yIl2AUoC8zA&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?a=BhCWO9BdCvM:frY8VEfx1Hw:V_sGLiPBpWU&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?i=BhCWO9BdCvM:frY8VEfx1Hw:V_sGLiPBpWU&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?a=BhCWO9BdCvM:frY8VEfx1Hw:gIN9vFwOqvQ&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?i=BhCWO9BdCvM:frY8VEfx1Hw:gIN9vFwOqvQ&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?a=BhCWO9BdCvM:frY8VEfx1Hw:F7zBnMyn0Lo&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?i=BhCWO9BdCvM:frY8VEfx1Hw:F7zBnMyn0Lo&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?a=BhCWO9BdCvM:frY8VEfx1Hw:qj6IDK7rITs&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?d=qj6IDK7rITs&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?a=BhCWO9BdCvM:frY8VEfx1Hw:l6gmwiTKsz0&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?d=l6gmwiTKsz0&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?a=BhCWO9BdCvM:frY8VEfx1Hw:dnMXMwOfBR0&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?d=dnMXMwOfBR0&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?a=BhCWO9BdCvM:frY8VEfx1Hw:TzevzKxY174&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/typepad/DqMf?d=TzevzKxY174&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/typepad/DqMf/~4/BhCWO9BdCvM&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-01T18:32:34+00:00</dc:date>
+	<dc:creator>Bruce Houghton</dc:creator>
+</item>
+<item rdf:about="http://londonist.com/?p=295760">
+	<title>Londonist: Extra, Extra</title>
+	<link>http://londonist.com/2013/07/extra-extra-628.php</link>
+	<content:encoded>&lt;img alt=&quot;0107_oyster&quot; class=&quot;aligncenter size-full wp-image-295761&quot; height=&quot;435&quot; src=&quot;http://cdn.londonist.com/wp-content/uploads/2013/07/0107_oyster.jpg&quot; width=&quot;640&quot; /&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.digitalspy.co.uk/tech/news/a494731/londons-oyster-card-turns-10-years-old.html&quot;&gt;It’s ten years since the Oyster card was introduced&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Also marking an important anniversary is Roman Abramovich, &lt;a href=&quot;http://www.bbc.co.uk/sport/0/football/23064770&quot;&gt;who bought Chelsea a decade ago&lt;/a&gt;. He’s stuck around longer than many anticipated.&lt;/li&gt;
+&lt;li&gt;A list of spare rooms in London where &lt;a href=&quot;http://www.spareroom.co.uk/flatshare/index.cgi?&amp;amp;search_id=132152440&amp;amp;show_results=as+a+map&quot;&gt;the advert contains the word ‘banter’&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Community service for woman filmed &lt;a href=&quot;http://www.bbc.co.uk/news/uk-england-london-23128956&quot;&gt;racially abusing passenger&lt;/a&gt; on the Croydon tram.&lt;/li&gt;
+&lt;li&gt;A musical &lt;a href=&quot;http://www.bbc.co.uk/news/uk-england-hereford-worcester-23117455&quot;&gt;based on the life of Brian Haw&lt;/a&gt; is to premiere in August.&lt;/li&gt;
+&lt;li&gt;Cost for refurbishing two toilets in Parliament &lt;a href=&quot;http://www.bbc.co.uk/news/uk-england-london-23117369&quot;&gt;will run to £100,000&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded>
+	<dc:date>2013-07-01T18:27:33+00:00</dc:date>
+	<dc:creator>Dean Nicholas</dc:creator>
+</item>
+<item rdf:about="http://techcrunch.com/?p=841044">
+	<title>MobileCrunch: Even At $90 Firefox OS Phones Have To Get Apps Right To Battle Budget Android</title>
+	<link>http://techcrunch.com/2013/07/01/firefox-os-needs-apps/</link>
+	<content:encoded>&lt;img alt=&quot;ZTE Open Orange&quot; class=&quot;attachment-tc-carousel-river-thumb wp-post-image&quot; height=&quot;70&quot; src=&quot;http://tctechcrunch2011.files.wordpress.com/2013/02/zte-open-orange.jpg?w=100&amp;amp;h=70&amp;amp;crop=1&quot; style=&quot;float: left; margin: 0 10px 7px 0;&quot; width=&quot;100&quot; /&gt;&lt;p&gt;The first phone running Mozilla’s Firefox OS phone &lt;a href=&quot;http://techcrunch.com/2013/07/01/first-firefox-os-phone/&quot;&gt;goes on sale tomorrow in Spain&lt;/a&gt;. Mozilla’s nascent open web HTML 5 mobile platform has garnered &lt;a href=&quot;http://techcrunch.com/2013/02/24/firefox-os-smartphones-marketplace/&quot;&gt;considerable carrier support&lt;/a&gt; already, months ahead of any phones being launched, which just serves to underline the level of concern in the mobile industry about how &lt;a href=&quot;http://techcrunch.com/2013/07/01/android-led-by-samsung-continues-to-storm-the-smartphone-market-pushing-a-global-70-market-share/&quot;&gt;dominant Google’s Android platform&lt;/a&gt; has become.&lt;/p&gt;
+&lt;p&gt;Smaller handset makers like ZTE and Alcatel are also unsurprisingly taking a punt on Firefox OS. What’s to lose? And with carrier pricing as low as Telefonica’s opening gambit of $90 (a price which includes around $40 worth of airtime for pre-pay customers) a degree of consumer uptake should follow — if only by gobbling up the remains of the feature phone market. As IHS Screen Digest analyst Ian Fogg &lt;a href=&quot;https://twitter.com/ianfogg42/status/351662752839909377&quot; target=&quot;_blank&quot;&gt;tweeted today&lt;/a&gt;: “Now there’s no price reason not to own a smartphone.”&lt;/p&gt;
+&lt;p&gt;Feature phones still take considerable share in the emerging markets where Firefox OS is being aimed. And while Spain may seem an odd first choice to debut the OS the Spanish economy is having a very tough time of it at present, with unemployment riding high, especially among the young, so a budget smartphone is likely to find plenty of takers. In that crisis, Telefonica clearly perceives an opportunity.&lt;/p&gt;
+&lt;p&gt;BlackBerry’s low cost handsets have also &lt;a href=&quot;http://techcrunch.com/2012/11/30/two-reasons-for-rim-to-be-cheerful-u-k-spanish-teens-still-love-blackberrys-well-theyre-cheaper-than-iphones/&quot;&gt;traditionally done well with Spanish teens&lt;/a&gt; (and in emerging markets generally). So as that company puts its energies into higher end devices running its new BlackBerry 10 OS, there’s a gap opening up for another low cost smartphone to muscle in. Enter Firefox OS: perhaps the best chance yet for carriers to put a little clear blue water between the devices they peddle and Google’s Android at the low end.&lt;/p&gt;
+&lt;p&gt;How well Firefox OS performs on low end hardware will be key, as there are still question marks over HTML5′s ability to perform on mobile (&lt;a href=&quot;http://techcrunch.com/2012/12/13/facebook-android-faster/&quot;&gt;Facebook famously switched back to native&lt;/a&gt; after &lt;a href=&quot;http://techcrunch.com/2012/09/11/mark-zuckerberg-our-biggest-mistake-with-mobile-was-betting-too-much-on-html5/&quot;&gt;failing to make HTML5′s performance stick&lt;/a&gt;), especially if you factor in the lower powered hardware Firefox OS is going for. These devices won’t need to be super slick, but they will need to be slick enough to compete with similarly budget Androids that are also constrained by their hardware.&lt;/p&gt;
+&lt;p&gt;After overall performance, app availability and performance are going to be essential. Apps like Facebook and Twitter have been optimised for Firefox OS already but Mozilla and its backers certainly have its work cut out to get in the game because Android has such a head start — and already plays at this budget price-point. ”The challenge for Firefox OS, is that Android is already v v cheap &amp;amp; has lots of content available too,” as Fogg noted via &lt;a href=&quot;https://twitter.com/ianfogg42/status/351663674194268160&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;That said, so long as enough key apps (like Facebook) are available — and if carriers bolster those app staples by helping to foster and promote localised app content to differentiate the devices — there is still room to stand out at a feature phone replacement price. It’s a similar strategy Nokia has been deploying with its Asha devices — which aren’t fully fledged smart phones but add in smartphone-like features (such as pre-loaded social network apps and baked in social sharing) to beef up their appeal to budget buyers.&lt;/p&gt;
+&lt;p&gt;The big question is how easy is developing and optimising apps for Firefox OS? One HTML5 app maker, &lt;a href=&quot;http://www.atlasct.com/site/&quot; target=&quot;_blank&quot;&gt;Atlas CT&lt;/a&gt;, which makes a turn-by-turn sat-nav HTML5 app (called &lt;a href=&quot;http://www.evernav.com/&quot; target=&quot;_blank&quot;&gt;EverNav&lt;/a&gt;) has been working on its app for two years. It’s optimising EverNav for Firefox — with plans to release it on July 15, hoping to be the first turn-by-turn sat-nav for the OS.&lt;/p&gt;
+&lt;p&gt;“We began working on EverNav even prior to Mozilla’s announcement on HTML5 based OS.  We estimated that having a true cross platform navigation solution will be a major advantage for mobile advertising and also for end users everyday navigation,” the company tells TechCrunch.&lt;/p&gt;
+&lt;p&gt;“We initially began by adding very basic turn by turn navigation to a mobile webpage. Later on in the development process we added features for both navigation and mobile advertising until we got the full featured application we are releasing. Naturally, we still have a long list of features that will be added in upcoming versions.”&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;When Mozilla announced Firefox OS in February, EverNav’s developers began work on a dedicated version for the platform — so that’s about a six-month additional development window on top of time already spent on their HTML 5 app. Still, this is not exactly a lightweight app. The company says developing such a time- and location-sensitive app in HTML 5 has definitely been challenging, describing its functionality as pushing HTML 5 to its current limits.&lt;/p&gt;
+&lt;p&gt;“Things that are trivial in native application development such as utilizing the GPS or running parallel processes are much harder to be done efficiently in HTML5,” it says. “Just to give you an example, one of the hardest tasks we had was to play sounds at exactly the right time to match the driving directions. Something that is extremely easy when developing native applications became a challenge in HTML5.”&lt;/p&gt;
+&lt;p&gt;With those challenges and limitations in mind, it will be interesting to see how Firefox apps fly: whether they can stand up to real-world use and abuse, how they manage with budget hardware — and most importantly whether HTML5 can hold its own against native Android equivalents at the low end.&lt;/p&gt;
+&lt;/div&gt;
+&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/841044/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; &lt;div class=&quot;feedflare&quot;&gt;
+&lt;a href=&quot;http://feeds.feedburner.com/~ff/Mobilecrunch?a=KHE2mOxXO1g:lxuRtldHepw:V_sGLiPBpWU&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/Mobilecrunch?i=KHE2mOxXO1g:lxuRtldHepw:V_sGLiPBpWU&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/Mobilecrunch?a=KHE2mOxXO1g:lxuRtldHepw:F7zBnMyn0Lo&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/Mobilecrunch?i=KHE2mOxXO1g:lxuRtldHepw:F7zBnMyn0Lo&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~ff/Mobilecrunch?a=KHE2mOxXO1g:lxuRtldHepw:yIl2AUoC8zA&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/Mobilecrunch?d=yIl2AUoC8zA&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;</content:encoded>
+	<dc:date>2013-07-01T18:26:49+00:00</dc:date>
+	<dc:creator>Natasha Lomas</dc:creator>
+</item>
+<item rdf:about="tag:www.antipope.org,2013:/charlie/blog-static//1.3627">
+	<title>Charlie's Diary: Another commercial ...</title>
+	<link>http://www.antipope.org/charlie/blog-static/2013/06/another-commercial.html</link>
+	<content:encoded>&lt;p&gt;While &quot;Neptune's Brood&quot; comes out officially on Tuesday, you might have missed the fact that &lt;a href=&quot;http://www.amazon.com/Apocalypse-Codex-Laundry-Files-Novel/dp/042525643X/charlieswebsi-20&quot;&gt;The Apocalypse Codex&lt;/a&gt; came out in cheap paperback in the USA last week. So if you've been waiting for it, now is the time to buy it.&lt;/p&gt;
+
+&lt;p&gt;Oh, and it just won the &lt;a href=&quot;http://www.tor.com/blogs/2013/06/announcing-the-2013-locus-award-winners&quot;&gt;2013 Locus Award for best fantasy novel&lt;/a&gt;!&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T18:23:09+00:00</dc:date>
+	<dc:creator>Charlie Stross</dc:creator>
+</item>
+<item rdf:about="http://paperbits.net/post/54358483773">
+	<title>Paper Bits: &quot;I could write a few sentences here about how we should care about hostility towards ladies at game...&quot;</title>
+	<link>http://paperbits.net/post/54358483773</link>
+	<content:encoded>“I could write a few sentences here about how we should care about hostility towards ladies at game industry events because it promotes diversity. To create a welcoming environment so more women will join the game industry, why diverse viewpoints are good for the medium, and so on. That’s a nice side effect, but the actual reason we should care is because it’s right thing to do. No person deserves to be treated like garbage, regardless their gender identity, race, physical features, or sexual orientation.”&lt;br /&gt;&lt;br /&gt; - &lt;em&gt;&lt;a href=&quot;http://www.steveswink.com/articles/an-e3-teachable-moment/&quot;&gt;» An E3 Teachable Moment&lt;/a&gt;&lt;/em&gt;</content:encoded>
+	<dc:date>2013-07-01T18:17:50+00:00</dc:date>
+</item>
+<item rdf:about="http://phandroid.com/?p=122035">
+	<title>Android Phone Fans: Skype for Android 4.0 brings complete redesign, check out the before and after screenshots</title>
+	<link>http://phandroid.com/2013/07/01/skype-for-android-4/</link>
+	<content:encoded>Skype has officially announced version 4.0 of its Android app that makes Skype unrecognizable, but in a good way. The app has been completely redesigned from the ground up</content:encoded>
+	<dc:date>2013-07-01T18:13:12+00:00</dc:date>
+	<dc:creator>Quentyn Kennemer</dc:creator>
+</item>
+<item rdf:about="http://economistsview.typepad.com/economistsview/2013/07/the-unemployed-need-and-deserve-our-help.html">
+	<title>Economist's View: The Unemployed Need and Deserve Our Help</title>
+	<link>http://feedproxy.google.com/~r/EconomistsView/~3/K13XH1uQCTM/the-unemployed-need-and-deserve-our-help.html</link>
+	<content:encoded>&lt;p&gt;Three on unemployment. First, we still have a jobs crisis, but Congress has 
+turned its back on the unemployed:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;a href=&quot;http://economix.blogs.nytimes.com/2013/07/01/full-employment-the-big-missing-piece/?_r=0&quot;&gt;
+	Full Employment: The Big Missing Piece, by Jared Bernstein&lt;/a&gt;: While some 
+	important parts of the current economy are showing strength — housing, 
+	energy extraction, corporate profitability — demand for labor, or “job 
+	creation” if you prefer, remains weak. That’s a huge problem because 
+	most of us depend on our paychecks, not our stock portfolios, so the fact 
+	that there’s still about 12 million unemployed (including four million 
+	who’ve been jobless for over half a year) in addition to about eight million 
+	involuntary part-timers (who want more hours, and can’t find them) should 
+	give one pause before declaring all clear on the economic front.&lt;/blockquote&gt;
+&lt;blockquote&gt;
+	Weak labor demand plays an integral role in these outcomes, but too much of 
+	the rhetoric I’ve been hearing lately ignores that reality. In the 
+	immigration debate — and I’m a longtime active supporter of comprehensive 
+	reform — advocates in both parties argue that there are lots of job slots 
+	waiting to be filled, if only we had greater labor supply. This claim 
+	is most commonly made regarding high-skilled workers, like programmers, but 
+	one advocate recently
+	&lt;a href=&quot;http://online.wsj.com/article/SB10001424127887324634304578535823045836956.html&quot;&gt;
+	wrote a commentary&lt;/a&gt; arguing that we also face a shortage of low-wage 
+	workers. Anyone with even cursory knowledge of employment or 
+	especially wage trends among such workers knows that this is not a
+	&lt;a href=&quot;http://jaredbernsteinblog.com/a-shortage-of-low-wage-workers-thats-not-the-right-defense-of-immigration-reform/&quot;&gt;
+	credible claim&lt;/a&gt;.&lt;/blockquote&gt;
+&lt;blockquote&gt;
+	It’s even worse over in the poverty debate, where contentions about the 
+	safety net, a topic I wrote about
+	&lt;a href=&quot;http://economix.blogs.nytimes.com/2013/06/24/lessons-of-the-great-recession-how-the-safety-net-performed/?_r=0&quot;&gt;
+	last week&lt;/a&gt;, suggest that the jobs are there for the taking if only SNAP 
+	(food stamps) and other benefits weren’t removing the incentives for 
+	low-income people to look for work. ...&lt;/blockquote&gt;
+&lt;blockquote&gt;
+	I suspect that most objective observers will agree that full employment — 
+	strong labor demand, substantial job creation — is a (I’d say “the”) key 
+	economic, social, and poverty policy that’s missing from the current agenda. 
+	...&lt;/blockquote&gt;
+&lt;p&gt;Second, household income is not recovering (unless you are at the top of the 
+income distribution). &lt;a href=&quot;http://blogs.wsj.com/economics/2013/07/01/vital-signs-chart-household-incomes-languish/&quot;&gt;From the WSJ&lt;/a&gt;: &lt;/p&gt;
+&lt;div&gt;
+		&lt;img alt=&quot;&quot; height=&quot;272&quot; src=&quot;http://si.wsj.net/public/resources/images/P1-BM097_VITALS_NS_20130630152103.jpg&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;225&quot; /&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Four years into recovery, parts of the economy have strengthened but real 
+median household income remains below prerecession levels.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Finally,
+&lt;a href=&quot;http://blogs.wsj.com/economics/2013/07/01/are-jobless-benefits-leading-to-higher-unemployment/&quot;&gt;
+also from the WSJ&lt;/a&gt;:, helping the unemployed does not destroy the incentive to 
+work:&lt;/p&gt;
+&lt;blockquote&gt;
+	Are extended unemployment benefits leading to higher rates of long-term 
+	unemployment? A new paper from the Federal Reserve Bank of Boston suggests 
+	the answer is “no”—or at least, “not much.” ...&lt;br /&gt;&lt;/blockquote&gt;&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/EconomistsView/~4/K13XH1uQCTM&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-01T18:11:04+00:00</dc:date>
+	<dc:creator>Mark Thoma</dc:creator>
+</item>
+<item rdf:about="http://paperbits.net/post/54357952701">
+	<title>Paper Bits: &quot;Your website or mobile app might be wonderful on its own, but customers experience services in...&quot;</title>
+	<link>http://paperbits.net/post/54357952701</link>
+	<content:encoded>“Your website or mobile app might be wonderful on its own, but customers experience services in totality, and base their judgments on how well everything works together. This means the transitions between channels and over time become crucial.”&lt;br /&gt;&lt;br /&gt; - &lt;em&gt;&lt;p&gt;&lt;a href=&quot;http://alistapart.com/article/designing-for-services-beyond-the-screen&quot;&gt;Designing for Services Beyond the Screen · An A List Apart Article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is especially difficult when you are an employee of a company split into divisions or profit-centers. In order to make certain that customers are treated in the ways you’d hope for, you will probably end up trying to convince a division chief to make decisions that will reduce his division’s profitability relative to the company. And good luck with that.&lt;/p&gt;&lt;/em&gt;</content:encoded>
+	<dc:date>2013-07-01T18:10:18+00:00</dc:date>
+</item>
+<item rdf:about="http://gigaom.com/?p=663106">
+	<title>jkOnTheRun: Meet Filip, a simple smartwatch for young kids to call home</title>
+	<link>http://gigaom.com/2013/07/01/meet-filip-a-simple-smartwatch-for-young-kids-to-call-home/</link>
+	<content:encoded>&lt;p&gt;Forget a smartphone; does your younger child need a smartwatch?&lt;/p&gt;
+&lt;p&gt;The folks behind &lt;a href=&quot;http://www.myfilip.com/&quot;&gt;Filip&lt;/a&gt; think so, but the planned device is more of a take on a location and communications service for young children than it is about apps on the wrist. Still, there’s a relatively underserved market for wearable kids devices that provide the basics that a parent would want. And Filip is designed to be a device that young kids would want to wear: it’s rugged and splashproof.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://gigaom2.files.wordpress.com/2013/07/filipwatchesingreen.jpg&quot;&gt;&lt;img alt=&quot;Filip watches in green&quot; class=&quot;aligncenter  wp-image-663164&quot; height=&quot;169&quot; src=&quot;http://gigaom2.files.wordpress.com/2013/07/filipwatchesingreen.jpg?w=637&amp;amp;h=169&quot; width=&quot;637&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Filip comes in four different colors and has a plain, almost toy-like look to it. But make no mistake, this little watch — yes, it tells time too — has some smarts.&lt;/p&gt;
+&lt;p&gt;Embedded GPS, Wi-Fi and GSM radios support location tracking and two-way phone calls between parent and tot. Parents can use their iOS or Android phone to locate their kids wearing Filip. Plus, they can call their child and have an actual conversation: Filip is limited to send calls to up to five numbers only, which are configured by the parent. Filip can also receive one-way text messages.&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;a href=&quot;http://gigaom2.files.wordpress.com/2013/07/filiptext.jpg&quot;&gt;&lt;img alt=&quot;Filip text&quot; class=&quot;aligncenter  wp-image-663166&quot; height=&quot;481&quot; src=&quot;http://gigaom2.files.wordpress.com/2013/07/filiptext.jpg?w=477&amp;amp;h=481&quot; width=&quot;477&quot; /&gt;&lt;/a&gt;The device also supports geofencing technology. Parents can set a safe zone and be alerted whenever their Filip-wearing tot wanders outside the invisible fence. Likewise, Filip can be used to tell parents when their child has arrived in a preconfigured safe-zone, such as school or the local library.&lt;/p&gt;
+&lt;p&gt;I especially like the red emergency button on the side of Filip. Once held for three seconds, a sequence of events happens:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A text message to up to five pre-defined phone numbers are sent with location data.&lt;/li&gt;
+&lt;li&gt;The device will start recording ambient sound.&lt;/li&gt;
+&lt;li&gt;Calls are made to the pre-defined phones in succession: If there’s no answer at the first, Filip calls the next, and so on.&lt;/li&gt;
+&lt;li&gt;In the event of no answer from the five phones, Filip can directly call emergency services.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;While all of that sounds good from a children’s smartwatch/security device, there are still a few details missing. For starters, the Filip has no price yet. Preorders start in the third quarter and at that time, more information we be made available. I’m also not sure what the actual services will cost. The ability to make cellular calls and receive texts mean there will be some type of service plan required by carriers, of course.&lt;/p&gt;
+&lt;p&gt;Regardless, I like the concept of Filip. A smartwatch for younger kids serves multiple purposes between location tracking, security and communications. And it provides that without the complications of an actual handset, which parents are likely considering for kids under 12 or so. Both of my kids — now aged 13 and 15 — use smartphones, but if I now had a younger child in elementary school, I probably would buy a Filip for them as opposed to a phone and add-on location service.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://gigaom2.files.wordpress.com/2013/07/filipcolors.jpg&quot;&gt;&lt;img alt=&quot;Filip colors&quot; class=&quot;aligncenter  wp-image-663169&quot; height=&quot;563&quot; src=&quot;http://gigaom2.files.wordpress.com/2013/07/filipcolors.jpg?w=637&amp;amp;h=563&quot; width=&quot;637&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;  &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;http://stats.wordpress.com/b.gif?host=gigaom.com&amp;amp;blog=14960843&amp;amp;post=663106&amp;amp;subd=gigaom2&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;&lt;p&gt;&lt;a href=&quot;http://pubads.g.doubleclick.net/gampad/jump?iu=/1008864/GigaOM_RSS_300x250&amp;amp;sz=300x250&amp;amp;c=986015&quot;&gt;&lt;img src=&quot;http://pubads.g.doubleclick.net/gampad/ad?iu=/1008864/GigaOM_RSS_300x250&amp;amp;sz=300x250&amp;amp;c=986015&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Related research and analysis from GigaOM Pro:&lt;/strong&gt;&lt;br /&gt;Subscriber content. &lt;a href=&quot;http://pro.gigaom.com/?utm_source=mobile&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663106+meet-filip-a-simple-smartwatch-for-young-kids-to-call-home&amp;amp;utm_content=kevintofel&quot;&gt;Sign up for a free trial&lt;/a&gt;.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://pro.gigaom.com/report/survey-how-apps-can-solve-photo-management/?utm_source=mobile&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663106+meet-filip-a-simple-smartwatch-for-young-kids-to-call-home&amp;amp;utm_content=kevintofel&quot;&gt;Survey: How apps can solve photo management&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://pro.gigaom.com/report/sector-roadmap-social-customer-service-in-2013/?utm_source=mobile&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663106+meet-filip-a-simple-smartwatch-for-young-kids-to-call-home&amp;amp;utm_content=kevintofel&quot;&gt;Sector RoadMap: Social customer service in 2013&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://pro.gigaom.com/blog/podcast-mobile-winners-and-losers-in-2012-and-what-to-expect-in-2013/?utm_source=mobile&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663106+meet-filip-a-simple-smartwatch-for-young-kids-to-call-home&amp;amp;utm_content=kevintofel&quot;&gt;Podcast: Mobile winners and losers in 2012 and what to expect in 2013&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+	<dc:date>2013-07-01T18:09:48+00:00</dc:date>
+	<dc:creator>Kevin C. Tofel</dc:creator>
+</item>
+<item rdf:about="http://overtag.dk/wordpress/?p=378">
+	<title>The Django community aggregator: Limiting choices in a ModelAdmin list_filter</title>
+	<link>http://overtag.dk/wordpress/2013/07/limiting-choices-in-a-modeladmin-list_filter/</link>
+	<content:encoded>&lt;p&gt;So, you need to limit choices, because the list of related choices is too long? &lt;strong&gt;The do NOT use the &lt;code&gt;limit_choices_to&lt;/code&gt; parameter on the ForeignKey&lt;/strong&gt;! Why? Because you risk having options missing in your forms, deleting relations unknowingly.&lt;/p&gt;
+&lt;p&gt;For instance, consider that you have the following case, expressed in pseudo code:&lt;/p&gt;
+&lt;pre&gt;ModelClass.related_instance = models.ForeignKey(MyRelatedModel, limit_choices_to = {'active': True}, blank=True, null=True)
+object = &amp;lt;ModelClass instance&amp;gt;
+object.related_instance = &amp;lt;MyRelatedModel instance&amp;gt;
+object.related_instance.active = False
+&lt;/pre&gt;
+&lt;p&gt;If you edit &lt;code&gt;object&lt;/code&gt;, you will see an admin form where &lt;code&gt;&amp;lt;MyRelatedModel instance&amp;gt;&lt;/code&gt; is not selectable! Hence, you will risk editing and loosing data without knowing it.&lt;/p&gt;
+&lt;p&gt;So your best bet is to stop using &lt;code&gt;limit_choices_to&lt;/code&gt; and instead define a filter. Luckily, it’s quite easy. It’s not beautiful, though, since &lt;code&gt;admin.filters.RelatedFieldListFilter&lt;/code&gt; does not offer a method to overwrite.&lt;/p&gt;
+&lt;p&gt;Here is an example:&lt;/p&gt;
+
+&lt;div class=&quot;wp_syntax&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre class=&quot;python&quot; style=&quot;font-family: monospace;&quot;&gt;&lt;span style=&quot;color: #ff7700; font-weight: bold;&quot;&gt;class&lt;/span&gt; RelatedFilter&lt;span style=&quot;color: black;&quot;&gt;(&lt;/span&gt;admin.&lt;span style=&quot;color: black;&quot;&gt;filters&lt;/span&gt;.&lt;span style=&quot;color: black;&quot;&gt;RelatedFieldListFilter&lt;/span&gt;&lt;span style=&quot;color: black;&quot;&gt;)&lt;/span&gt;:
+    &lt;span style=&quot;color: #ff7700; font-weight: bold;&quot;&gt;def&lt;/span&gt; &lt;span style=&quot;color: #0000cd;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: black;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #66cc66;&quot;&gt;,&lt;/span&gt; *args&lt;span style=&quot;color: #66cc66;&quot;&gt;,&lt;/span&gt; **kwargs&lt;span style=&quot;color: black;&quot;&gt;)&lt;/span&gt;:
+        &lt;span style=&quot;color: #008000;&quot;&gt;super&lt;/span&gt;&lt;span style=&quot;color: black;&quot;&gt;(&lt;/span&gt;RelatedFilter&lt;span style=&quot;color: #66cc66;&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;color: #008000;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: black;&quot;&gt;)&lt;/span&gt;.&lt;span style=&quot;color: #0000cd;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: black;&quot;&gt;(&lt;/span&gt;*args&lt;span style=&quot;color: #66cc66;&quot;&gt;,&lt;/span&gt; **kwargs&lt;span style=&quot;color: black;&quot;&gt;)&lt;/span&gt;
+        &lt;span style=&quot;color: #008000;&quot;&gt;self&lt;/span&gt;.&lt;span style=&quot;color: black;&quot;&gt;lookup_choices&lt;/span&gt; &lt;span style=&quot;color: #66cc66;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: black;&quot;&gt;[&lt;/span&gt;
+            &lt;span style=&quot;color: black;&quot;&gt;(&lt;/span&gt;x.&lt;span style=&quot;color: #008000;&quot;&gt;id&lt;/span&gt;&lt;span style=&quot;color: #66cc66;&quot;&gt;,&lt;/span&gt; x&lt;span style=&quot;color: black;&quot;&gt;)&lt;/span&gt; &lt;span style=&quot;color: #ff7700; font-weight: bold;&quot;&gt;for&lt;/span&gt; x &lt;span style=&quot;color: #ff7700; font-weight: bold;&quot;&gt;in&lt;/span&gt;
+                models.&lt;span style=&quot;color: black;&quot;&gt;RelatedModel&lt;/span&gt;.&lt;span style=&quot;color: black;&quot;&gt;objects&lt;/span&gt;.&lt;span style=&quot;color: #008000;&quot;&gt;filter&lt;/span&gt;&lt;span style=&quot;color: black;&quot;&gt;(&lt;/span&gt;status&lt;span style=&quot;color: #66cc66;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #483d8b;&quot;&gt;'active'&lt;/span&gt;&lt;span style=&quot;color: black;&quot;&gt;)&lt;/span&gt;
+        &lt;span style=&quot;color: black;&quot;&gt;]&lt;/span&gt;
+ 
+&lt;span style=&quot;color: #ff7700; font-weight: bold;&quot;&gt;class&lt;/span&gt; MyModelAdmin&lt;span style=&quot;color: black;&quot;&gt;(&lt;/span&gt;admin.&lt;span style=&quot;color: black;&quot;&gt;ModelAdmin&lt;/span&gt;&lt;span style=&quot;color: black;&quot;&gt;)&lt;/span&gt;:
+ 
+    list_filter &lt;span style=&quot;color: #66cc66;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: black;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: black;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #483d8b;&quot;&gt;'related_field'&lt;/span&gt;&lt;span style=&quot;color: #66cc66;&quot;&gt;,&lt;/span&gt; RelatedFilter&lt;span style=&quot;color: black;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;color: #66cc66;&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;color: #483d8b;&quot;&gt;'other_related_field'&lt;/span&gt;&lt;span style=&quot;color: black;&quot;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-07-01T18:09:42+00:00</dc:date>
+	<dc:creator>101% objective</dc:creator>
+</item>
+<item rdf:about="http://bgr.com/?p=775038">
+	<title>The Boy Genius Report: Samsung Galaxy Note III rumored for September 4th debut</title>
+	<link>http://feedproxy.google.com/~r/TheBoyGeniusReport/~3/ku7PJA90I6Q/</link>
+	<content:encoded>&lt;center&gt;&lt;a class=&quot;bgr-rss-featured-image bgr-rss-test-class&quot; href=&quot;http://bgr.com/2013/07/01/galaxy-note-iii-release-date-announcement/&quot;&gt;&lt;img alt=&quot;Galaxy Note III Release Date&quot; class=&quot;attachment-feed_normal wp-post-image&quot; height=&quot;406&quot; src=&quot;http://boygeniusreport.files.wordpress.com/2012/09/samsung-galaxy-note-ii-1.jpg?w=610&quot; title=&quot;Galaxy Note III Release Date&quot; width=&quot;610&quot; /&gt;&lt;/a&gt;&lt;/center&gt;Phablet fans wondering when the next flagship phone from the company that started it all might debut now have a possible answer. According to a report &lt;a href=&quot;http://www.android.gs/samsung-galaxy-note-3-release-date-5/&quot;&gt;from &lt;em&gt;Android Geeks&lt;/em&gt;&lt;/a&gt; that cites an unnamed source, &lt;a href=&quot;http://bgr.com/tag/samsung&quot;&gt;Samsung&lt;/a&gt; is planning to hold one of its customary &quot;Unpacked&quot; press conferences on September 4th in Berlin, Germany to unveil the &lt;a href=&quot;http://bgr.com/tag/galaxy-note-iii&quot;&gt;Galaxy Note III&lt;/a&gt;. If the report is accurate, Samsung's event would come just two days before the start of the annual IFA trade show in Berlin, where Samsung unveiled the first two generations of its Galaxy Note smartphone. Numerous earlier reports have suggested that Samsung's Galaxy Note III will launch in September this year, and the &lt;a href=&quot;http://bgr.com/2013/06/10/samsung-galaxy-note-iii-specs-production/&quot;&gt;phone is said to feature&lt;/a&gt; a 2.3GHz quad-core Snapdragon 800 processor, a full HD Super AMOLED display measuring between 5.7 and 6 inches diagonally, a 13-megapixel camera, Android 4.2.2 Jelly Bean and improved S Pen support.&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/TheBoyGeniusReport/~4/ku7PJA90I6Q&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-01T18:05:51+00:00</dc:date>
+	<dc:creator>Zach Epstein</dc:creator>
+</item>
+<item rdf:about="http://arstechnica.com/?p=301045">
+	<title>Ars Technica: Report: Xbox President Don Mattrick will leave Microsoft for Zynga</title>
+	<link>http://arstechnica.com/gaming/2013/07/report-xbox-president-don-mattrick-will-leave-microsoft-for-zynga/</link>
+	<content:encoded>&lt;div id=&quot;rss-wrap&quot;&gt; &lt;p&gt;When Microsoft first unveiled its Xbox One &lt;a href=&quot;http://arstechnica.com/gaming/2013/05/microsoft-announces-its-next-console-the-xbox-one/&quot;&gt;in May&lt;/a&gt;, it was Microsoft President of Interactive Entertainment Don Mattrick who took center stage for the reveal. Now, less than two months later, the &lt;em&gt;Wall Street Journal&lt;/em&gt; is &lt;a href=&quot;http://allthingsd.com/20130701/exclusive-microsofts-entertainment-head-don-mattrick-leaving-to-take-top-role-possibly-ceo-at-zynga/&quot;&gt;reporting&lt;/a&gt; that Mattrick will be leaving the company and heading to a top position at social gaming giant Zynga. Mattrick may even arrive as Zynga's new CEO, replacing founder and current CEO Mark Pincus. While the move is not official and is only based on &quot;multiple sources close to the situation&quot; for the time being, &lt;em&gt;WSJ&lt;/em&gt; says an announcement could be coming as soon as this afternoon.&lt;/p&gt;
+&lt;p&gt;This high-profile departure so soon after Microsoft's major PR offensive for the Xbox One (and so soon before the launch of that console) does not exactly project confidence on the company's part. However, Mattrick did recently get in hot water with some gamers. &lt;a href=&quot;http://arstechnica.com/gaming/2013/06/microsoft-no-internet-connection-you-can-still-buy-an-xbox-360/&quot;&gt;During a televised interview&lt;/a&gt;, he said that players who couldn't get Internet connectivity could still buy an Xbox 360 rather than an Xbox One. Of course, that was before Microsoft changed its mind about a variety of licensing and connectivity requirements for the Xbox One, a turnaround that was announced to the world via &lt;a href=&quot;http://arstechnica.com/gaming/2013/06/rumor-microsoft-set-to-reverse-controversial-game-licensing-policies/&quot;&gt;a statement by... Don Mattrick&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Mattrick &lt;a href=&quot;http://arstechnica.com/gaming/2007/07/peter-moore-leaves-microsoft-to-be-replaced-by-former-ea-head/&quot;&gt;joined Microsoft in 2007&lt;/a&gt; after serving as president of Electronic Arts for a number of years. He took over the position from Peter Moore, who ironically went on to serve at EA Sports and eventually as chief operating officer for the major publisher.&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;a href=&quot;http://arstechnica.com/gaming/2013/07/report-xbox-president-don-mattrick-will-leave-microsoft-for-zynga/#p3&quot;&gt;Read 2 remaining paragraphs&lt;/a&gt; | &lt;a href=&quot;http://arstechnica.com/gaming/2013/07/report-xbox-president-don-mattrick-will-leave-microsoft-for-zynga/?comments=1&quot;&gt;Comments&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T18:02:48+00:00</dc:date>
+	<dc:creator>Kyle Orland</dc:creator>
+</item>
+<item rdf:about="http://gigaom.com/?p=663126">
+	<title>jkOnTheRun: An iPhone with “LTE-Advanced?” If you’re in the US, don’t get too excited</title>
+	<link>http://gigaom.com/2013/07/01/an-iphone-with-lte-advanced-if-youre-in-the-us-dont-get-too-excited/</link>
+	<content:encoded>&lt;p&gt;&lt;a href=&quot;http://koreatimes.co.kr/www/news/tech/2013/07/133_138436.html&quot;&gt;The &lt;em&gt;Korea Times&lt;/em&gt;&lt;/a&gt; is quoting anonymous SK Telecom executives saying that Apple is in the middle of negotiations about using an &lt;a href=&quot;http://gigaom.com/2011/02/08/lte-advanced/&quot;&gt;LTE-Advanced technology&lt;/a&gt; called carrier aggregation in the next version of the iPhone. Doing so would enable potential download speeds of 150 mbps on SK’s network, which is twice as fast as the what the iPhone 5 supports on its LTE network today.&lt;/p&gt;
+&lt;p&gt;Whether or not this deal actually comes to fruition, keep in mind that there’s a reason this report is originating in Korea: there’s very little chance this capability would be available to most Apple customers in the U.S. when the supposed device becomes available.&lt;/p&gt;
+&lt;p&gt;Qualcomm, which is Apple’s supplier, already makes an next-generation LTE chip for Apple’s rival Samsung, and it’s in a &lt;a href=&quot;http://gigaom.com/2013/06/17/is-samsung-really-launching-an-lte-advanced-galaxy-more-like-semi-advanced/&quot;&gt;version of the Galaxy S 4&lt;/a&gt; optimized for Korea. With Apple on track for its yearly iPhone release some time this fall, it is very likely Apple will get similarly updated chip, which includes the potential for much faster speeds.&lt;/p&gt;
+&lt;p&gt;But while such a device could work in South Korea with SK Telecom, for example, it wouldn’t work anywhere else — at least not yet.&lt;/p&gt;
+&lt;p&gt;Carrier aggregation bonds two mobile transmissions together, allowing an operator to create a kind of super-connection. SK Telecom, however, is the only global operator that currently supports the LTE upgrade, though it’s on the roadmap of most of the U.S. operators. To make full use of carrier aggregation, U.S. operators first need to build their second LTE networks, which &lt;a href=&quot;http://gigaom.com/2013/03/13/verizon-will-start-building-lte-network-no-2-this-year/&quot;&gt;they’ve only just begun to do&lt;/a&gt;. As my colleague Kevin Fitchard has written before, it’s &lt;a href=&quot;http://gigaom.com/2013/06/28/whats-in-a-g-why-terms-like-5g-and-lte-advanced-are-important/&quot;&gt;misleading to call carrier aggregation LTE-Advanced&lt;/a&gt;, since it’s only the first of many steps necessary to achieve a full LTE-A network.&lt;/p&gt;
+&lt;br /&gt;  &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;http://stats.wordpress.com/b.gif?host=gigaom.com&amp;amp;blog=14960843&amp;amp;post=663126&amp;amp;subd=gigaom2&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;&lt;p&gt;&lt;a href=&quot;http://pubads.g.doubleclick.net/gampad/jump?iu=/1008864/GigaOM_RSS_300x250&amp;amp;sz=300x250&amp;amp;c=234886&quot;&gt;&lt;img src=&quot;http://pubads.g.doubleclick.net/gampad/ad?iu=/1008864/GigaOM_RSS_300x250&amp;amp;sz=300x250&amp;amp;c=234886&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Related research and analysis from GigaOM Pro:&lt;/strong&gt;&lt;br /&gt;Subscriber content. &lt;a href=&quot;http://pro.gigaom.com/?utm_source=apple&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663126+an-iphone-with-lte-advanced-if-youre-in-the-us-dont-get-too-excited&amp;amp;utm_content=ericaogg&quot;&gt;Sign up for a free trial&lt;/a&gt;.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://pro.gigaom.com/2012/07/the-wearable-computing-market-a-global-analysis/?utm_source=apple&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663126+an-iphone-with-lte-advanced-if-youre-in-the-us-dont-get-too-excited&amp;amp;utm_content=ericaogg&quot;&gt;Analyzing the wearable computing market&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://pro.gigaom.com/2012/01/lte-changes-everything-lte-changes-nothing/?utm_source=apple&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663126+an-iphone-with-lte-advanced-if-youre-in-the-us-dont-get-too-excited&amp;amp;utm_content=ericaogg&quot;&gt;LTE changes everything; LTE changes nothing&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://pro.gigaom.com/2011/12/confused-about-the-wireless-markets-heres-a-breakdown/?utm_source=apple&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=auto3&amp;amp;utm_term=663126+an-iphone-with-lte-advanced-if-youre-in-the-us-dont-get-too-excited&amp;amp;utm_content=ericaogg&quot;&gt;Confused about the wireless markets? Here’s a breakdown&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+	<dc:date>2013-07-01T18:00:56+00:00</dc:date>
+	<dc:creator>Erica Ogg</dc:creator>
+</item>
+<item rdf:about="http://arstechnica.com/?p=301007">
+	<title>Ars Technica: Linux 3.10 out with better SSD caching and Radeon support</title>
+	<link>http://arstechnica.com/information-technology/2013/07/linux-3-10-out-with-better-ssd-caching-and-radeon-support/</link>
+	<content:encoded>&lt;div id=&quot;rss-wrap&quot;&gt; &lt;p&gt;Linux 3.10 was &lt;a href=&quot;http://lkml.indiana.edu/hypermail/linux/kernel/1306.3/04336.html&quot;&gt;released by Linus Torvalds&lt;/a&gt; last night, bringing with it a new method of SSD caching and some upgrades to the Radeon graphics driver. &quot;This release has been pretty typical and not particularly prone to problems,&quot; Torvalds wrote in his e-mail announcing the release. &quot;No major new subsystems this time around, although there are individual new features.&quot;&lt;/p&gt;
+&lt;p&gt;As you may recall, &lt;a href=&quot;http://arstechnica.com/information-technology/2013/04/linux-3-9-brings-ssd-caching-and-drivers-to-support-modern-pcs/&quot;&gt;Linux 3.9&lt;/a&gt; (released in April) included an experimental feature called dm-cache that allows SSDs to act as caches for other storage devices. An additional SSD caching technology known as Bcache was also in the works for more than a year and has now &lt;a href=&quot;http://www.phoronix.com/scan.php?page=news_item&amp;amp;px=MTM2ODM&quot;&gt;merged&lt;/a&gt; into the Linux kernel with the newly released 3.10.&lt;/p&gt;
+&lt;p&gt;&quot;Linux 3.10 will include the 'block-layer cache' Bcache, which can be used to configure one disk as a cache for another disk; a fast SSD, for example, could be used as a cache for a slower hard drive with more capacity,&quot; H-Online editor Thorsten Leemhuis wrote in his &lt;a href=&quot;http://www.h-online.com/open/features/What-s-new-in-Linux-3-10-1902270.html&quot;&gt;thorough roundup of the new kernel version&lt;/a&gt;.&quot;This kind of SSD cache can speed up access to frequently read data and take on write requests until a quieter moment when they can be written to the slower disk.&quot;&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;a href=&quot;http://arstechnica.com/information-technology/2013/07/linux-3-10-out-with-better-ssd-caching-and-radeon-support/#p3&quot;&gt;Read 4 remaining paragraphs&lt;/a&gt; | &lt;a href=&quot;http://arstechnica.com/information-technology/2013/07/linux-3-10-out-with-better-ssd-caching-and-radeon-support/?comments=1&quot;&gt;Comments&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T18:00:40+00:00</dc:date>
+	<dc:creator>Jon Brodkin</dc:creator>
+</item>
+
+</rdf:RDF>

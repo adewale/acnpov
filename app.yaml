@@ -1,0 +1,20 @@
+application: acnpov
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+
+- url: /images
+  static_dir: static/images
+
+- url: /
+  static_files: static/index.html
+  upload: static/index.html
+
+- url: /index.html
+  static_files: static/index.html
+  upload: static/index.html
+
+- url: /
+  static_dir: static
